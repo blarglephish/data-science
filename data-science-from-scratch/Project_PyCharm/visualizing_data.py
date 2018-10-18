@@ -62,19 +62,38 @@ def make_chart_histogram():
  Example #4: Misleading axis can create confusing graphs
 '''
 def make_chart_misleading_y_axis(mislead=True):
-    # TODO
+    mentions = [500, 505]
+    years = [2013, 2014]
 
-'''
- Example #5: Adding multiple series to a line chart
-'''
-def make_chart_several_line_charts():
-    # TODO
+    plt.bar([x for x in years], mentions, 0.8)
+    plt.xticks(years)
+    plt.ylabel("# of times I heard someone say 'data science'")
 
-'''
- Example #6: Scatterplots for showing relationships between related data
-'''
-def make_chart_scatterplot_axes(equal_axes=False):
-    # TODO
+    # If you don't do this, matplotlib will label the x-axis 0, 1
+    # and then add a +2.013e3 off in the corner (bad matplotlib)
+    plt.ticklabel_format(useOffset=False)
+
+    # misleading y-axis only shows the part above 500
+    if mislead:
+        plt.axis([2012.5, 2014.5, 499, 506])
+        plt.title("Look at the Huge Increase!")
+
+    else:
+        plt.axis([2012.5, 2014.5, 0, 550])
+        plt.title("Not So Huge Anymore")
+    plt.show()
+
+# '''
+#  Example #5: Adding multiple series to a line chart
+# '''
+# def make_chart_several_line_charts():
+#     # TODO
+#
+# '''
+#  Example #6: Scatterplots for showing relationships between related data
+# '''
+# def make_chart_scatterplot_axes(equal_axes=False):
+#     # TODO
 
 '''
  Main Routine
