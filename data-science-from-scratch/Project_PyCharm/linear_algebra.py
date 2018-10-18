@@ -1,5 +1,5 @@
 """
-@File = LinearAlgebra.py
+@File = linear_algebra.py
 @Author = Adam Betz
 @Date = 10/17/2018
 
