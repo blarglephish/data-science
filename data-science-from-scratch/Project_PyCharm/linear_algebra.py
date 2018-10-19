@@ -99,4 +99,4 @@ def is_diagonal(i, j):
     return 1 if i == j else 0
 
 # Using the above as an entry_fn, we can call make_matrix to create an identity matrix:
-# identity_matrix = make_matrix(5, 5, is_diagonal)  # creates a 5 x 5 identity matrix
+identity_matrix = make_matrix(5, 5, is_diagonal)  # creates a 5 x 5 identity matrix

@@ -128,6 +128,14 @@ def make_chart_scatterplot_axes(equal_axes=False):
     plt.ylabel("daily minutes spent on the site")
     plt.show()
 
+def make_chart_pie_chart():
+
+    plt.pie([0.95, 0.05], labels=["Uses pie charts", "Knows better"])
+
+    # make sure pie is a circle and not an oval
+    plt.axis("equal")
+    plt.show()
+
 '''
  Main Routine
 '''
@@ -145,8 +153,8 @@ if __name__ == "__main__":
     #
     # make_chart_several_line_charts()
     #
-    make_chart_scatterplot_axes(equal_axes=False)
+    # make_chart_scatterplot_axes(equal_axes=False)
     #
     # make_chart_scatterplot_axes(equal_axes=True)
     #
-    # make_chart_pie_chart()
+    make_chart_pie_chart()
