@@ -120,4 +120,4 @@ if __name__ == "__main__":
     #
     # plot_normal_cdfs()
     #
-    # make_hist(0.75, 100, 10000)
+    make_hist(0.75, 100, 10000)
