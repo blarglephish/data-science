@@ -1,0 +1,1670 @@
+title,authors,publisher,date
+"R Graphics Cookbook, 2nd Edition",['Winston Chang'],O'Reilly Media,October 2018
+Foundations for Architecting Data Solutions,"['Jonathan Seidman', 'Ted Malaska']",O'Reilly Media,August 2018
+Learning GraphQL,"['Alex Banks', 'Eve Porcello']",O'Reilly Media,August 2018
+Hands-On Unsupervised Learning Using Python,['Ankur Patel'],O'Reilly Media,July 2018
+Natural Language Processing with PyTorch,['Delip Rao'],O'Reilly Media,July 2018
+Take Control of Your Digital Storage,['Jeff Carlson'],Take Control Books,July 2018
+Getting Started with Kudu,"['Jean-Marc Spaggiari', 'Mladen Kovacevic', 'Brock Noland', 'Ryan Bosshart']",O'Reilly Media,July 2018
+Visualizing Streaming Data,['Anthony Aragues'],O'Reilly Media,June 2018
+"Learning PHP, MySQL & JavaScript, 5th Edition",['Robin Nixon'],O'Reilly Media,May 2018
+Practical Tableau,['Ryan Sleeper'],O'Reilly Media,April 2018
+Feature Engineering for Machine Learning,"['Alice Zheng', 'Amanda Casari']",O'Reilly Media,March 2018
+TensorFlow: Powerful Predictive Analytics with TensorFlow,['Md. Karim'],Packt Publishing,March 2018
+AWS: Security Best Practices on AWS,['Albert Anthony'],Packt Publishing,March 2018
+Mapping with ArcGIS Pro,"['Amy Rock', 'Ryan Malhoski']",Packt Publishing,March 2018
+ArcGIS Pro 2.x Cookbook,['GISP Tripp Corbin'],Packt Publishing,February 2018
+SQL Server 2017 Machine Learning Services with R,"['Tomaz Kastrun', 'Julie Koesmarno']",Packt Publishing,February 2018
+Teradata Cookbook,"['Abhinav Khandelwal', 'Rajsekhar Bhamidipati']",Packt Publishing,February 2018
+Python Web Scraping Cookbook,['Michael Heydt'],Packt Publishing,February 2018
+Spark: The Definitive Guide,"['Matei Zaharia', 'Bill Chambers']",O'Reilly Media,February 2018
+"IPython Interactive Computing and Visualization Cookbook, 2nd Edition",['Cyrille Rossant'],Packt Publishing,January 2018
+Regression Analysis with R,['Giuseppe Ciaburro'],Packt Publishing,January 2018
+Hands-On Data Structures and Algorithms with JavaScript,['Kashyap Mukkamala'],Packt Publishing,January 2018
+Learning Einstein Analytics,['Santosh Chitalkar'],Packt Publishing,January 2018
+Implementing Azure Cloud Design Patterns,"['Stefano Demiliani', 'Oliver Michalski']",Packt Publishing,January 2018
+MySQL 8 Cookbook,['Karthik Appigatla'],Packt Publishing,January 2018
+Selenium Framework Design in Data-Driven Testing,['Carl Cocchiaro'],Packt Publishing,January 2018
+"Practical Mobile Forensics, 3rd Edition","['Satish Bommisetty', 'Rohit Tamma', 'Heather Mahalik', 'Oleg Skulkin']",Packt Publishing,January 2018
+Practical Big Data Analytics,['Nataraj Dasgupta'],Packt Publishing,January 2018
+Enterprise Cloud Security and Governance,['Zeal Vora'],Packt Publishing,December 2017
+Qlik Sense: Advanced Data Visualization for Your Organization,"['Christopher Ilacqua', 'Henric Cronstrom', 'James Richardson', 'Ferran Pagans', '...']",Packt Publishing,December 2017
+Python: Advanced Predictive Analytics,"['Ashish Kumar', 'Joseph Babcock']",Packt Publishing,December 2017
+IBM SPSS Modeler Essentials,"['Keith McCormick', 'Jesus Salcedo']",Packt Publishing,December 2017
+Apache Kafka 1.0 Cookbook,['Raul Estrada'],Packt Publishing,December 2017
+Learning Elastic Stack 6.0,"['Pranav Shukla', 'Sharath N']",Packt Publishing,December 2017
+Making Data Visual,"['Miriah Meyer', 'Danyel Fisher']",O'Reilly Media,December 2017
+Hands-on DevOps,['Sricharan Vadapalli'],Packt Publishing,December 2017
+SciPy Recipes,"['L. Martins', 'Ruben Ramos', 'V Ayyadevara']",Packt Publishing,December 2017
+Learning Spark Streaming,['Francois Garillot'],O'Reilly Media,December 2017
+Mastering VMware vSphere 6.5,"['Andrea Mauro', 'Paolo Valsecchi', 'Karel Novak']",Packt Publishing,December 2017
+Mastering Entity Framework Core 2.0,['Prabhakaran Anbazhagan'],Packt Publishing,December 2017
+Data Science on the Google Cloud Platform,['Valliappa Lakshmanan'],O'Reilly Media,December 2017
+"Learning Pentaho Data Integration 8 CE, 3rd Edition",['Maria Roldan'],Packt Publishing,December 2017
+"Learning PostgreSQL 10, 2nd Edition","['Salahaldin Juba', 'Andrey Volkov']",Packt Publishing,December 2017
+Stream Analytics with Microsoft Azure,"['Anindita Basak', 'Krishna Venkataraman', 'Ryan Murphy', 'Manpreet Singh']",Packt Publishing,December 2017
+"Learning D3.js 4 Mapping, 2nd Edition","['Thomas Newton', 'Oscar Villarreal', 'Lars Verspohl']",Packt Publishing,November 2017
+Learning Apache Apex,"['Thomas Weise', 'Munagala Ramanath', 'David Yan', 'Kenneth Knowles']",Packt Publishing,November 2017
+R Data Mining,['Andrea Cirillo'],Packt Publishing,November 2017
+Learning Julia,"['Anshul Joshi', 'Rahul Lakhanpal']",Packt Publishing,November 2017
+Big Data Analytics with SAS,['David Pope'],Packt Publishing,November 2017
+R Data Visualization Recipes,['Vitor Lanzetta'],Packt Publishing,November 2017
+R Data Analysis Projects,['Gopi Subramanian'],Packt Publishing,November 2017
+Statistics for Data Science,['James Miller'],Packt Publishing,November 2017
+Practical Data Wrangling,['Allan Visochek'],Packt Publishing,November 2017
+Unlocking Financial Data,['Justin Pauley'],O'Reilly Media,November 2017
+Web Scraping with Python,['Ryan Mitchell'],O'Reilly Media,November 2017
+Mining the Social Web,"['Matthew A. Russell', 'Mikhail Klassen']",O'Reilly Media,November 2017
+"Genomics Analysis with Spark, Docker, and Clouds","[""Brian D. O'Connor"", 'Geraldine van der Auwera']",O'Reilly Media,November 2017
+Reactive Programming with RxJS 5,['Sergi Mansilla'],Pragmatic Bookshelf,November 2017
+Seven Databases in Seven Weeks,"['Luc Perkins', 'Eric Redmond', 'Jim Wilson']",Pragmatic Bookshelf,November 2017
+scikit-learn : Machine Learning Simplified,"['Trent Hauck', 'Raúl Garreta', 'Guillermo Moncecchi', 'Gavin Hackeling']",Packt Publishing,November 2017
+Predictive Analytics with TensorFlow,['Md. Karim'],Packt Publishing,November 2017
+"Mastering Windows PowerShell Scripting, 2nd Edition","['Brenton Blawat', 'Chris Dent']",Packt Publishing,October 2017
+Mastering AWS Security,['Albert Anthony'],Packt Publishing,October 2017
+Pandas Cookbook,['Theodore Petrou'],Packt Publishing,October 2017
+"Machine Learning with R Cookbook, 2nd Edition","['Chiu Yu-Wei', 'AshishSingh Bhatia']",Packt Publishing,October 2017
+Jupyter for Data Science,['Dan Toomey'],Packt Publishing,October 2017
+MySQL 8 for Big Data,"['Chintan Mehta', 'Shabbir Challawala', 'Jaydip Lakhatariya', 'Kandarp Patel']",Packt Publishing,October 2017
+"GeoServer Beginner's Guide, 2nd Edition",['Stefano Iacovella'],Packt Publishing,October 2017
+A Common-Sense Guide to Data Structures and Algorithms,['Jay Wengrow'],Pragmatic Bookshelf,October 2017
+Machine Learning and Security,"['Clarence Chio', 'David Freeman']",O'Reilly Media,October 2017
+"Take Control of iCloud, 6th Edition",['Joe Kissell'],Take Control Books,October 2017
+Practical Real-time Data Processing and Analytics,"['Saurabh Gupta', 'Shilpi Saxena']",Packt Publishing,September 2017
+Practical Time Series Analysis,"['PKS Prakash', 'Avishek Pal']",Packt Publishing,September 2017
+Microsoft Power BI Cookbook,['Brett Powell'],Packt Publishing,September 2017
+Tableau 10 Bootcamp,"['Donabel Santos', 'Joshua Milligan']",Packt Publishing,September 2017
+"Scala for Machine Learning, 2nd Edition",['Patrick Nicolas'],Packt Publishing,September 2017
+"Python for Data Analysis, 2nd Edition",['William McKinney'],O'Reilly Media,September 2017
+Data Analysis with IBM SPSS Statistics,"['Kenneth Stehlik-Barry', 'Anthony Babinec']",Packt Publishing,September 2017
+Apache Spark 2.x Machine Learning Cookbook,"['Siamak Amirghodsi', 'Meenakshi Rajendran', 'Broderick Hall', 'Shuen Mei']",Packt Publishing,September 2017
+"R Data Analysis Cookbook, 2nd Edition",['Kuntal Ganguly'],Packt Publishing,September 2017
+Java Data Analysis,['John Hubbard'],Packt Publishing,September 2017
+Scala Microservices,"['Jatin Puri', 'Selvam Palanimalai']",Packt Publishing,September 2017
+"Network Security Through Data Analysis, 2nd Edition",['Michael Collins'],O'Reilly Media,September 2017
+Kafka: The Definitive Guide,"['Gwen Shapira', 'Neha Narkhede', 'Todd Palino']",O'Reilly Media,August 2017
+Mastering Machine Learning with Spark 2.x,"['Alex Tellez', 'Max Pumperla', 'Michal Malohlava']",Packt Publishing,August 2017
+"Statistical Application Development with R and Python, 2nd Edition",['Prabhanjan Tattar'],Packt Publishing,August 2017
+MATLAB for Machine Learning,['Giuseppe Ciaburro'],Packt Publishing,August 2017
+TypeScript High Performance,['Ajinkya Kher'],Packt Publishing,August 2017
+Building Data Streaming Applications with Apache Kafka,"['Manish Kumar', 'Chanchal Singh']",Packt Publishing,August 2017
+Data Science Algorithms in a Week,['David Natingga'],Packt Publishing,August 2017
+Interactive Data Visualization for the Web,['Scott Murray'],O'Reilly Media,August 2017
+Think Data Structures,['Allen B. Downey'],O'Reilly Media,August 2017
+"Learning Informatica PowerCenter 10.x, 2nd Edition",['Rahul Malewar'],Packt Publishing,August 2017
+Learning TensorFlow,"['Itay Lieder', 'Yehezkel Resheff', 'Tom Hope']",O'Reilly Media,August 2017
+Apache Mesos Cookbook,"['David Blomquist', 'Tomasz Janiszewski']",Packt Publishing,August 2017
+Big Data Analytics with Java,['Rajat Mehta'],Packt Publishing,July 2017
+Hands-On Data Science and Python Machine Learning,['Frank Kane'],Packt Publishing,July 2017
+Python Social Media Analytics,"['Siddhartha Chatterjee', 'Michal Krystyanczuk']",Packt Publishing,July 2017
+Einführung in Machine Learning mit Python,"['Sarah Guido', 'Andreas Müller']",O'Reilly Verlag via dpunkt,July 2017
+Apache Spark 2.x for Java Developers,"['Sourav Gulati', 'Sumit Kumar']",Packt Publishing,July 2017
+"Mastering Apache Spark 2.x, 2nd Edition",['Romeo Kienzler'],Packt Publishing,July 2017
+Scala and Spark for Big Data Analytics,"['Md. Karim', 'Sridhar Alla']",Packt Publishing,July 2017
+Machine Learning Algorithms,['Giuseppe Bonaccorso'],Packt Publishing,July 2017
+Streaming Systems,"['Tyler Akidau', 'Slava Chernyak', 'Reuven Lax']",O'Reilly Media,July 2017
+Machine Learning for OpenCV,['Michael Beyeler'],Packt Publishing,July 2017
+Java: Data Science Made Easy,"['Richard Reese', 'Jennifer Reese', 'Alexey Grigorev']",Packt Publishing,July 2017
+Principles of Data Wrangling,"['Joseph Hellerstein', 'Jeffrey Heer', 'Tye Rattenbury', 'Sean Kandel', 'Connor Carreras']",O'Reilly Media,June 2017
+"Practical Data Science Cookbook, 2nd Edition","['Sean Murphy', 'Prabhanjan Tattar', 'Benjamin Bengfort', 'Tony Ojeda', 'Abhijit Dasgupta']",Packt Publishing,June 2017
+"ArcPy and ArcGIS, 2nd Edition","['Silas Toms', ""Dara O'Beirne""]",Packt Publishing,June 2017
+Mastering Spring 5.0,['Ranga Karanam'],Packt Publishing,June 2017
+"R: Mining spatial, text, web, and social media data","['Nathan Danneman', 'Richard Heimann', 'Bater Makhabel', 'Pradeepta Mishra']",Packt Publishing,June 2017
+"Rails, Angular, Postgres, and Bootstrap",['David B. Copeland'],Pragmatic Bookshelf,June 2017
+Software Architecture for Big Data and the Cloud,"['Ivan Mistrik', 'Rami Bahsoon', 'Nour Ali', 'Maritta Heisel', 'Bruce Maxim']",Morgan Kaufmann,June 2017
+"Advanced Analytics with Spark, 2nd Edition","['Sandy Ryza', 'Uri Laserson', 'Josh Wills', 'Sean Owen']",O'Reilly Media,June 2017
+Text Mining with R,"['David Robinson', 'Julia Silge']",O'Reilly Media,June 2017
+Agile Data Science 2.0,['Russell Jurney'],O'Reilly Media,June 2017
+Data Science with Java,['Michael Brzustowicz'],O'Reilly Media,June 2017
+Data Lake for Enterprises,"['Tomcy John', 'Pankaj Misra']",Packt Publishing,May 2017
+Python: End-to-end Data Analysis,"['Ivan Idris', 'Martin Czygan', 'Magnus Persson', 'Luiz Martins', 'Phuong Vothihong']",Packt Publishing,May 2017
+Mastering PostGIS,"['Dominik Mikiewicz', 'Michal Mackiewicz', 'Tomasz Nycz']",Packt Publishing,May 2017
+Python Machine Learning By Example,['Yuxi Liu'],Packt Publishing,May 2017
+"Apache Spark 2.x Cookbook, 2nd Edition",['Rishi Yadav'],Packt Publishing,May 2017
+Python Data Structures and Algorithms,['Benjamin Baka'],Packt Publishing,May 2017
+"Python Web Scraping, 2nd Edition","['Richard Lawson', 'Katharine Jarmul']",Packt Publishing,May 2017
+PHP 7 Data Structures and Algorithms,['Mizanur Rahman'],Packt Publishing,May 2017
+Learning Social Media Analytics with R,"['Tushar Sharma', 'Raghav Bali', 'Dipanjan Sarkar']",Packt Publishing,May 2017
+Practical Statistics for Data Scientists,"['Peter Bruce', 'Andrew Bruce']",O'Reilly Media,May 2017
+Preparing Data for Analysis with JMP,['Robert Carver'],SAS Institute,May 2017
+Java 9 Data Structures and Algorithms,['Debasish Ray Chawdhuri'],Packt Publishing,April 2017
+D3.js 4.x Data Visualization,"['Aendrew H. Rininsland', 'Swizec Teller']",Packt Publishing,April 2017
+Machine Learning with Spark,"['Rajdeep Dua', 'Manpreet Singh Ghotra', 'Nick Pentreath']",Packt Publishing,April 2017
+Vue.js 2 Cookbook,['Andrea Passaglia'],Packt Publishing,April 2017
+Learning React,"['Alex Banks', 'Eve Porcello']",O'Reilly Media,April 2017
+Learning Apache Cassandra,['Sandeep Yarabarla'],Packt Publishing,April 2017
+Expert Data Visualization,['Jos Dirksen'],Packt Publishing,April 2017
+Deep Learning with TensorFlow,"['Giancarlo Zaccone', 'Md. Rezaul Karim', 'Ahmed Menshawy']",Packt Publishing,April 2017
+Take Control of Your Online Privacy,['Joe Kissell'],TidBITS / Take Control Books,April 2017
+Oracle Business Intelligence Enterprise Edition 12c,"['Adrian Ward', 'Christian Screen', 'Haroun Khan']",Packt Publishing,April 2017
+SPSS Statistics for Data Analysis and Visualization,"['Keith McCormick', 'Jesus Salcedo']",Wiley,April 2017
+Algorithms For Dummies,"['John Mueller', 'Luca Massaron']",For Dummies,April 2017
+Mastering Azure Analytics,['Zoiner Tejada'],O'Reilly Media,April 2017
+Defensive Security Handbook,"['Lee Brotherston', 'Amanda Berlin']",O'Reilly Media,April 2017
+D3.js: Cutting-edge Data Visualization,"['Aendrew H. Rininsland', 'Michael Heydt', 'Pablo Navarro Castillo']",Packt Publishing,March 2017
+Python: Data Analytics and Visualization,"['Phuong Vo. T. H.', 'Martin Czygan', 'Ashish Kumar', 'Kirthi Raman']",Packt Publishing,March 2017
+R: Predictive Analysis,"['Tony Fischetti', 'Eric Mayor', 'Rui Miguel Forte']",Packt Publishing,March 2017
+Designing with Data,"['Rochelle King', 'Elizabeth F Churchill', 'Caitlin Tan']",O'Reilly Media,March 2017
+Applying Data Science,['Gerhard Svolba'],SAS Institute,March 2017
+Mastering Spark for Data Science,"['Andrew Morgan', 'Antoine Amend', 'David George', 'Matthew Hallett']",Packt Publishing,March 2017
+Java Data Science Cookbook,['Rushdi Shams'],Packt Publishing,March 2017
+Learning Apache Spark 2,['Muhammad Asif Abbasi'],Packt Publishing,March 2017
+Python Data Analysis,['Armando Fandango'],Packt Publishing,March 2017
+Learning C for Arduino,['Syed Omar Faruk Towaha'],Packt Publishing,March 2017
+Hadoop in the Enterprise: Architecture,"['Jan Kunigk', 'Lars George', 'Paul Wilkinson', 'Ian Buss']",O'Reilly Media,March 2017
+An Introduction to SAS Visual Analytics,"['Tricia Aanderud', 'Rob Collum', 'Ryan Kumpfmiller']",SAS Institute,March 2017
+Designing Data-Intensive Applications,['Martin Kleppmann'],O'Reilly Media,March 2017
+"Cody's Data Cleaning Techniques Using SAS, Third Edition",['Ron Cody'],SAS Institute,March 2017
+Understanding Metadata,"['Federico Castanedo', 'Scott Gidley']",O'Reilly Media,March 2017
+Everyday Data Structures,['William H. Smith'],Packt Publishing,March 2017
+Machine Learning & Data Science Landscape,"['Christina Voskoglou', 'Mark Wilcox', 'Stijn Schuermans']",VisionMobile,March 2017
+JSON at Work,['Tom Marrs'],O'Reilly Media,March 2017
+Effective Business Intelligence with QuickSight,['Rajesh Nadipalli'],Packt Publishing,March 2017
+Building Dashboards with Microsoft Dynamics GP 2016,"['Belinda Allen', 'Mark Polino']",Packt Publishing,March 2017
+Big Data Visualization,['James D. Miller'],Packt Publishing,February 2017
+Data Visualization with D3 4.x Cookbook,['Nick Qi Zhu'],Packt Publishing,February 2017
+Splunk: Enterprise Operational Intelligence Delivered,"['Betsy Page Sigman', 'Erickson Delgado', 'Josh Diakun', 'Paul F. Johnson', 'Derek ...']",Packt Publishing,February 2017
+QGIS: Becoming a GIS Power User,"['Anita Graser', 'Ben Mearns', 'Alex Mandel', 'Victor Olaya Ferrero', 'Alexander Bruy']",Packt Publishing,February 2017
+Spring: Developing Java Applications for the Enterprise,"['Ravi Kant Soni', 'Amuthan Ganeshan', 'Rajesh RV']",Packt Publishing,February 2017
+Learning PySpark,"['Tomasz Drabas', 'Denny Guang-Yeu Lee']",Packt Publishing,February 2017
+Scala: Guide for Data Science Professionals,"['Pascal Bugnion', 'Arun Manivannan', 'Patrick R. Nicolas']",Packt Publishing,February 2017
+Learning Functional Data Structures and Algorithms,"['Atul S. Khot', 'Raju Kumar Mishra']",Packt Publishing,February 2017
+Data Science For Dummies,"['Lillian Pierson', 'Jake Porway']",Wiley / For Dummies,February 2017
+JMP Start Statistics,"['John Sall', 'Mia L. Stephens', 'Ann W. Lehman', 'Sheila Loring']",SAS Institute,February 2017
+"JMP 13 Multivariate Methods, Second Edition",['SAS Institute'],SAS Institute,February 2017
+Stream Processing with Apache Flink,"['Fabian Hueske', 'Vasiliki Kalavri']",O'Reilly Media,February 2017
+Learning Apache Flink,['Tanmay Deshpande'],Packt Publishing,February 2017
+PostgreSQL High Availability Cookbook,['Shaun M. Thomas'],Packt Publishing,February 2017
+Zabbix: Enterprise Network Monitoring Made Easy,"['Rihards Olups', 'Andrea Dalle Vacche', 'Patrik Uytterhoeven']",Packt Publishing,February 2017
+HBase High Performance Cookbook,['Ruchir Choudhry'],Packt Publishing,January 2017
+Automate it! - Recipes to upskill your business,['Chetan Giridhar'],Packt Publishing,January 2017
+Elasticsearch: A Complete Guide,"['Bharvi Dixit', 'Rafal Kuc', 'Marek Rogozinski', 'Saurabh Chhajed']",Packt Publishing,January 2017
+Tabular Modeling with SQL Server 2016 Analysis Services Cookbook,['Derek Wilson'],Packt Publishing,January 2017
+"Understanding the Chief Data Officer, 2nd Edition",['Julia Steele'],O'Reilly Media,January 2017
+Take Control of Your Digital Legacy,['Joe Kissell'],TidBITS / Take Control Books,January 2017
+Java for Data Science,"['Richard M Reese', 'Jennifer L. Reese']",Packt Publishing,January 2017
+Building Recommendation Engines,['Suresh K. Gorakala'],Packt Publishing,December 2016
+Tableau Cookbook – Recipes for Data Visualization,['Shweta Sankhe-Savale'],Packt Publishing,December 2016
+Apache Spark for Data Science Cookbook,['Padma Priya Chitturi'],Packt Publishing,December 2016
+Fast Data Processing Systems with SMACK Stack,['Raul Estrada'],Packt Publishing,December 2016
+Practical Business Intelligence,['Ahmed Sherif'],Packt Publishing,December 2016
+Applied Text Analysis with Python,"['Benjamin Bengfort', 'Rebecca Bilbro', 'Tony Ojeda']",O'Reilly Media,December 2016
+"Fundamentals of Predictive Analytics with JMP, Second Edition","['Ron Klimberg', 'B. D. McCullough']",SAS Institute,December 2016
+Market Data Analysis Using JMP,['Walter R. Paczkowski'],SAS Institute,December 2016
+Principles of Data Science,['Sinan Ozdemir'],Packt Publishing,December 2016
+Mastering RethinkDB,['Shahid Shaikh'],Packt Publishing,December 2016
+SAS ODS Graphics Designer by Example,"['Sanjay Matange', 'Jeanette Bottitta']",SAS Institute,December 2016
+Data Acquisition Using LabVIEW,['Behzad Ehsani'],Packt Publishing,December 2016
+Tableau 10.0 Best Practices,['Jenny Zhang'],Packt Publishing,December 2016
+R for Data Science,"['Hadley Wickham', 'Garrett Grolemund']",O'Reilly Media,December 2016
+Building VMware Software-Defined Data Centers,['Valentin Hamburger'],Packt Publishing,December 2016
+Applied Akka Patterns,"['Michael Nash', 'Wade Waldron']",O'Reilly Media,December 2016
+Efficient R Programming,"['Colin Gillespie', 'Robin Lovelace']",O'Reilly Media,December 2016
+Mastering Tableau,['David Baldwin'],Packt Publishing,December 2016
+Practical Machine Learning with H2O,['Darren Cook'],O'Reilly Media,December 2016
+Silicon Photonics,"['Daryl Inniss', 'Roy Rubenstein']",Elsevier / Morgan Kaufmann,December 2016
+Advanced Persistent Security,"['Ira Winkler', 'Araceli Treu Gomes']",Elsevier / Syngress,November 2016
+MDX with Microsoft SQL Server 2016 Analysis Services Cookbook,"['Tomislav Piasevoli', 'Sherry Li']",Packt Publishing,November 2016
+Tableau 10 Business Intelligence Cookbook,['Donabel Santos'],Packt Publishing,November 2016
+Penetration Testing with Raspberry Pi,"['Michael McPhee', 'Jason Beltrame']",Packt Publishing,November 2016
+Implementing CDISC Using SAS,"['Chris Holland', 'Jack Shostak']",SAS Institute,November 2016
+"Agent-based Spatial Simulation with NetLogo, Volume 2","['Arnaud Banos', 'Christophe Lang', 'Nicolas Marilleau']",Elsevier / ISTE Press - Elsevier,November 2016
+"R: Recipes for Analysis, Visualization and Machine Learning","['Viswa Viswanathan', 'Shanthi Viswanathan', 'Atmajitsinh Gohil', 'Yu-Wei', 'Chiu']",Packt Publishing,November 2016
+Python Data Science Handbook,['Jake VanderPlas'],O'Reilly Media,November 2016
+R Data Structures and Algorithms,"['PKS Prakash', 'Achyutuni Sri Krishna Rao']",Packt Publishing,November 2016
+Head First Python,['Paul Barry'],O'Reilly Media,November 2016
+Swift Data Structure and Algorithms,"['Erik Azar', 'Mario Eguiluz Alebicto']",Packt Publishing,November 2016
+Jobs to Be Done,"['Stephen WUNKER', 'Jessica WATTMAN', 'David J. Farber']",AMACOM,November 2016
+Python: Real World Machine Learning,"['Prateek Joshi', 'John Hearty', 'Bastiaan Sjardin', 'Luca Massaron', 'Alberto Boschetti']",Packt Publishing,November 2016
+Programming Pig,"['Alan Gates', 'Daniel Dai']",O'Reilly Media,November 2016
+Blind Spot,"['Steve Diller', 'Nathan Shedroff', 'Sean Tauber']",Rosenfeld Media,November 2016
+Python Data Science Essentials,"['Alberto Boschetti', 'Luca Massaron']",Packt Publishing,October 2016
+Learning R Programming,['Kun Ren'],Packt Publishing,October 2016
+Learning Go Programming,['Vladimir Vivien'],Packt Publishing,October 2016
+Fast Data Processing with Spark 2,['Krishna Sankar'],Packt Publishing,October 2016
+Introduction to Apache Flink,"['Ellen Friedman', 'Kostas Tzoumas']",O'Reilly Media,October 2016
+Learning VMware vSphere,"['Abhilash G B', 'Rebecca Fitzhugh']",Packt Publishing,October 2016
+Network Storage,"[""James O'Reilly""]",Elsevier / Morgan Kaufmann,October 2016
+Apache Spark 2 for Beginners,['Rajanarayanan Thottuvaikkatumana'],Packt Publishing,October 2016
+Open source in the Internet of Things,"['Stijn Schuermans', 'Michael Vakulenko', 'Christina Voskoglou']",VisionMobile,October 2016
+Cross-Platform Tools 2015,"['Mark Wilcox', 'Christina Voskoglou']",VisionMobile,October 2016
+Spark for Data Science,"['Srinivas Duvvuri', 'Bikramaditya Singhal']",Packt Publishing,September 2016
+Practical Data Analysis,"['Hector Cuesta', 'Sampath Kumar']",Packt Publishing,September 2016
+Hadoop Blueprints,"['Anurag Shrivastava', 'Tanmay Deshpande']",Packt Publishing,September 2016
+Smart Internet of Things Projects,['Agus Kurniawan'],Packt Publishing,September 2016
+Big Data Analytics,['Venkat Ankam'],Packt Publishing,September 2016
+Introduction to Machine Learning with Python,"['Andreas C. Müller', 'Sarah Guido']",O'Reilly Media,September 2016
+Strategic Analytics and SAS,['Randall S. Collica'],SAS Institute,September 2016
+Going Responsive,['Karen McGrane'],A Book Apart,September 2016
+Predictive Analytics For Dummies,"['Anasse Bari', 'Mohamed Chaouchi', 'Tommy Jung']",Wiley / For Dummies,September 2016
+Discovering JMP 13,['SAS Institute'],SAS Institute,September 2016
+Using JMP 13,['SAS Institute'],SAS Institute,September 2016
+JMP 13 Essential Graphing,['SAS Institute'],SAS Institute,September 2016
+JMP 13 Scripting Guide,['SAS Institute'],SAS Institute,September 2016
+JMP 13 Multivariate Methods,['SAS Institute'],SAS Institute,September 2016
+JMP 13 Reliability and Survival Methods,['SAS Institute'],SAS Institute,September 2016
+Data Hiding Techniques in Windows OS,"['Nihad Hassan', 'Rami Hijazi']",Elsevier / Syngress,September 2016
+Biostatistics and Computer-based Analysis of Health Data using Stata,"['Christophe Lalanne', 'Mounir Mesbah']",Elsevier / ISTE Press - Elsevier,September 2016
+Hadoop: Data Processing and Modelling,"['Garry Turkington', 'Tanmay Deshpande', 'Sandeep Karanth']",Packt Publishing,August 2016
+Tableau: Creating Interactive Data Visualizations,"['Jen Stirrup', 'Ashutosh Nandeshwar', 'Ashley Ohmann', 'Matt Floyd']",Packt Publishing,August 2016
+Mastering Predictive Analytics with Python,['Joseph Babcock'],Packt Publishing,August 2016
+Visualforce Development Cookbook,['Keir Bowden'],Packt Publishing,August 2016
+Python: Deeper Insights into Machine Learning,"['Sebastian Raschka', 'David Julian', 'John Hearty']",Packt Publishing,August 2016
+Learning GraphQL and Relay,['Samer Buna'],Packt Publishing,August 2016
+Mastering Data Mining with Python – Find patterns hidden in your data,['Megan Squire'],Packt Publishing,August 2016
+Introduction to R for Business Intelligence,['Jay Gendron'],Packt Publishing,August 2016
+Mastering Sass,['Luke Watts'],Packt Publishing,August 2016
+Data Analysis Plans: A Blueprint for Success Using SAS,"['Kathleen Jablonski', 'Mark Guagliardo']",SAS Institute,August 2016
+Foundations for Analytics with Python,['Clinton W. Brownley'],O'Reilly Media,August 2016
+The Data and Analytics Playbook,"['Lowell Fryman', 'Gregory Lampshire', 'Dan Meers']",Elsevier / Morgan Kaufmann,August 2016
+VMware Software-Defined Storage,['Martin Hosken'],Wiley / Sybex,August 2016
+Data Science Essentials in Python,['Dmitry Zinoviev'],Pragmatic Bookshelf,August 2016
+Zabbix Network Monitoring,['Rihards Olups'],Packt Publishing,August 2016
+Disruptive Marketing,['Geoffrey Colon'],AMACOM,August 2016
+The CS Detective,['Jeremy Kubica'],No Starch Press,August 2016
+R for Data Science Cookbook,"['Yu-Wei', 'Chiu']",Packt Publishing,July 2016
+Big Data Analytics with R,['Simon Walkowiak'],Packt Publishing,July 2016
+Python Machine Learning Blueprints: Intuitive data projects you can relate to,['Alexander T. Combs'],Packt Publishing,July 2016
+Mastering Social Media Mining with Python,['Marco Bonzanini'],Packt Publishing,July 2016
+Smarter Decisions – The Intersection of Internet of Things and Decision Science,['Jojo Moolayil'],Packt Publishing,July 2016
+Mastering Business Intelligence with MicroStrategy,"['Dmitry Anoshin', 'Himani Rana', 'Ning Ma']",Packt Publishing,July 2016
+Getting Started with TensorFlow,['Giancarlo Zaccone'],Packt Publishing,July 2016
+Juniper QFX10000 Series,['Douglas Richard Hanks Jr.'],O'Reilly Media,July 2016
+MongoDB: The Definitive Guide,"['Shannon Bradshaw', 'Kristina Chodorow']",O'Reilly Media,July 2016
+Advanced Machine Learning with Python,['John Hearty'],Packt Publishing,July 2016
+Python Data Analysis Cookbook,['Ivan Idris'],Packt Publishing,July 2016
+Architecting HBase Applications,"['Jean-Marc Spaggiari', ""Kevin O'Dell""]",O'Reilly Media,July 2016
+Perspectives on Data Science for Software Engineering,"['Tim Menzies', 'Laurie Williams', 'Thomas Zimmermann']",Elsevier / Morgan Kaufmann,July 2016
+Understanding Compression,"['Colt McAnlis', 'Aleks Haecky', 'John Brooks']",O'Reilly Media,July 2016
+Quantifying the User Experience,"['Jeff Sauro', 'James R Lewis']",Elsevier / Morgan Kaufmann,July 2016
+Architecting for Scale,['Lee Atchison'],O'Reilly Media,July 2016
+Network Function Virtualization,"['Ken Gray', 'Thomas D. Nadeau']",Elsevier / Morgan Kaufmann,July 2016
+Data Visualization with Python and JavaScript,['Kyran Dale'],O'Reilly Media,June 2016
+Simulation for Data Science with R,['Matthias Templ'],Packt Publishing,June 2016
+Cassandra: The Definitive Guide,"['Jeff Carpenter', 'Eben Hewitt']",O'Reilly Media,June 2016
+Practical Windows Forensics,"['Ayman Shaaban', 'Konstantin Sapronov']",Packt Publishing,June 2016
+Mastering Scala Machine Learning,['Alex Kozlov'],Packt Publishing,June 2016
+VMware vSphere 6.x Datacenter Design Cookbook,['Hersey Cartwright'],Packt Publishing,June 2016
+The Enterprise Big Data Lake,['Alex Gorelik'],O'Reilly Media,June 2016
+Mastering Python Data Analysis,"['Magnus Vilhelm Persson', 'Luiz Felipe Martins']",Packt Publishing,June 2016
+R: Data Analysis and Visualization,"['Tony Fischetti', 'Brett Lantz', 'Jaynal Abedin', 'Hrishi V. Mittal', 'Bater Makhabel', '...']",Packt Publishing,June 2016
+Information Security Science,['Carl Young'],Elsevier / Syngress,June 2016
+Core Data in Objective-C,['Marcus S. Zarra'],Pragmatic Bookshelf,June 2016
+Core Data in Swift,['Marcus S. Zarra'],Pragmatic Bookshelf,June 2016
+Advanced Splunk,['Ashish Kumar Tulsiram Yadav'],Packt Publishing,June 2016
+Python: Real-World Data Science,"['Dusty Phillips', 'Fabrizio Romano', 'Phuong Vo. T. H.', 'Martin Czygan', 'Robert ...']",Packt Publishing,June 2016
+Data Breach Preparation and Response,['Kevvie Fowler'],Elsevier / Syngress,June 2016
+Splunk Operational Intelligence Cookbook,"['Josh Diakun', 'Paul F. Johnson', 'Derek Mock']",Packt Publishing,June 2016
+Big Data,"['Rajkumar Buyya', 'Rodrigo N. Calheiros', 'Amir Vahid Dastjerdi']",Elsevier / Morgan Kaufmann,June 2016
+Identity and Data Security for Web Development,"['Jonathan LeBlanc', 'Tim Messerschmidt']",O'Reilly Media,June 2016
+Oracle Database 12c Security Cookbook,"['Zoran Pavlovic', 'Maja Veselica']",Packt Publishing,June 2016
+Data Analytics with Hadoop,"['Benjamin Bengfort', 'Jenny Kim']",O'Reilly Media,June 2016
+Time Is Money,['Tammy Everts'],O'Reilly Media,June 2016
+Mastering Redis,['Jeremy Nelson'],Packt Publishing,May 2016
+Mastering Parallel Programming with R,"['Simon R. Chapple', 'Eilidh Troup', 'Thorsten Forster', 'Terence Sloan']",Packt Publishing,May 2016
+Mastering Mobile Forensics,['Soufiane Tahiri'],Packt Publishing,May 2016
+Java Deep Learning Essentials,['Yusuke Sugomori'],Packt Publishing,May 2016
+Mastering Data Visualization with Microsoft Visio Professional 2016,['David John Parker'],Packt Publishing,May 2016
+Python Geospatial Development,['Erik Westra'],Packt Publishing,May 2016
+Mastering the SAS DS2 Procedure,['Mark Jordan'],SAS Institute,May 2016
+Practical Mobile Forensics,"['Heather Mahalik', 'Rohit Tamma', 'Satish Bommisetty']",Packt Publishing,May 2016
+Threat Forecasting,"['John Pirc', 'David Desanto', 'Iain Davison', 'Will Gragido']",Elsevier / Syngress,May 2016
+"Formative Assessment, Learning Data Analytics and Gamification","['Santi Caballé', 'Robert Clarisó']",Elsevier / Academic Press,May 2016
+Streaming Architecture,"['Ted Dunning', 'Ellen Friedman']",O'Reilly Media,May 2016
+Pervasive Computing,"['Ciprian Dobre', 'Fatos Xhafa']",Elsevier / Academic Press,May 2016
+Professional Hadoop,"['Benoy Antony', 'Konstantin Boudnik', 'Cheryl Adams', 'Branky Shao', 'Cazen Lee', 'Kai ...']",Wiley / Wrox,May 2016
+Practical Data Analysis Cookbook,['Tomasz Drabas'],Packt Publishing,April 2016
+Apache Hive Cookbook,"['Hanish Bansal', 'Saurabh Chauhan', 'Shrey Mehrotra']",Packt Publishing,April 2016
+QGIS 2 Cookbook,"['Alex Mandel', 'Victor Olaya Ferrero', 'Anita Graser', 'Alexander Bruy']",Packt Publishing,April 2016
+RStudio for R Statistical Computing Cookbook,['Andrea Cirillo'],Packt Publishing,April 2016
+Learning d3.js Data Visualization,"['Ændrew Rininsland', 'Swizec Teller']",Packt Publishing,April 2016
+Scientific Computing with Scala,['Vytautas Jancauskas'],Packt Publishing,April 2016
+Mastering QlikView Data Visualization,['Karl Pover'],Packt Publishing,April 2016
+OpenStack Sahara Essentials,['Omar Khedher'],Packt Publishing,April 2016
+Visualizing Financial Data,"['Julie Rodriguez', 'Piotr Kaczmarek']",Wiley,April 2016
+Relational Database Design and Implementation,['Jan L. Harrington'],Elsevier / Morgan Kaufmann,April 2016
+Distributed Computing with Python,['Francesco Pierfederici'],Packt Publishing,April 2016
+Business Intelligence Strategy and Big Data Analytics,['Steve Williams'],Elsevier / Morgan Kaufmann,April 2016
+Learning ArcGIS for Desktop,['Daniela Cristiana Docan'],Packt Publishing,March 2016
+VMware Performance and Capacity Management,"[""Iwan 'e1' Rahabok""]",Packt Publishing,March 2016
+Mastering Wireshark,['Charit Mishra'],Packt Publishing,March 2016
+R Deep Learning Essentials,['Joshua F. Wiley'],Packt Publishing,March 2016
+Mastering Clojure,['Akhil Wali'],Packt Publishing,March 2016
+Learning Responsive Data Visualization,['Christoph Korner'],Packt Publishing,March 2016
+Clinical Graphs Using SAS,['Sanjay Matange'],SAS Institute,March 2016
+The DS2 Procedure: SAS Programming Methods at Work,['Peter Eberhardt'],SAS Institute,March 2016
+Excel Power Pivot and Power Query For Dummies,['Michael Alexander'],Wiley / For Dummies,March 2016
+CCNA Data Center: Introducing Cisco Data Center Technologies Study Guide,"['Todd Lammle', 'Todd Montgomery']",Wiley / Sybex,March 2016
+The Visual Imperative,['Lindy Ryan'],Elsevier / Morgan Kaufmann,March 2016
+Data Simplification,['Jules J Berman'],Elsevier / Morgan Kaufmann,March 2016
+Learning QGIS,['Anita Graser'],Packt Publishing,March 2016
+Spark,"['Ilya Ganelin', 'Ema Orhian', 'Kai Sasaki', 'Brennon York']",Wiley,March 2016
+Regression Analysis with Python,"['Luca Massaron', 'Alberto Boschetti']",Packt Publishing,February 2016
+Elasticsearch Server,"['Rafal Kuc', 'Marek Rogozinski']",Packt Publishing,February 2016
+Real-Time Big Data Analytics,"['Sumit Gupta', 'Shilpi']",Packt Publishing,February 2016
+F# for Machine Learning Essentials,['Sudipta Mukherjee'],Packt Publishing,February 2016
+Getting Started with ResearchKit,"['Edward Cessna', 'Dhanush Balachandran']",Packt Publishing,February 2016
+Preserving Electronic Evidence for Trial,"['Ann D. Zeigler', 'Ernesto F. Rojas']",Elsevier / Syngress,February 2016
+Getting Started with SQL,['Thomas Nield'],O'Reilly Media,February 2016
+Newnes Audio and Hi-Fi Engineer's Pocket Book,['Vivian Capel'],Elsevier / Newnes,February 2016
+Data Wrangling with Python,"['Jacqueline Kazil', 'Katharine Jarmul']",O'Reilly Media,February 2016
+The Kimball Group Reader,"['Ralph Kimball', 'Margy Ross', 'Joy Mundy', 'Bob Becker', 'Warren Thornthwaite']",Wiley,February 2016
+Learning Scrapy,['Dimitrios Kouzis-Loukas'],Packt Publishing,January 2016
+Geospatial Development By Example with Python,['Pablo Carreira'],Packt Publishing,January 2016
+iOS Forensics Cookbook,"['Bhanu Birani', 'Mayank Birani']",Packt Publishing,January 2016
+Scala for Data Science,['Pascal Bugnion'],Packt Publishing,January 2016
+QlikView Essentials,['Chandraish Sinha'],Packt Publishing,January 2016
+R Data Science Essentials,"['Raja B. Koushik', 'Sharan Kumar Ravindran']",Packt Publishing,January 2016
+Tableau Your Data!,['Daniel G. Murray'],Wiley,January 2016
+PHP Web Services,['Lorna Jane Mitchell'],O'Reilly Media,January 2016
+Learning Hunk,"['Dmitry Anoshin', 'Sergey Sheypak']",Packt Publishing,December 2015
+Excel Dashboards and Reports for Dummies,['Michael Alexander'],Wiley / For Dummies,December 2015
+D3.js By Example,['Michael Heydt'],Packt Publishing,December 2015
+Pentaho Analytics for MongoDB Cookbook,"['Joel Latino', 'Harris Ward']",Packt Publishing,December 2015
+Apache Solr for Indexing Data,"['Sachin Handiekar', 'Anshul Johri']",Packt Publishing,December 2015
+Secure Your Node.js Web Application,['Karl Duuna'],Pragmatic Bookshelf,December 2015
+Client-Side Data Storage,['Raymond Camden'],O'Reilly Media,December 2015
+Mathematica Data Analysis,['Sergiy Suchok'],Packt Publishing,December 2015
+Spark for Python Developers,['Amit Nandi'],Packt Publishing,December 2015
+Data Analysis with R,['Tony Fischetti'],Packt Publishing,December 2015
+Big Data MBA,['Bill Schmarzo'],Wiley,December 2015
+Apache Oozie Essentials,['Jagat Jasjit Singh'],Packt Publishing,December 2015
+Mobile Data Loss,['Michael T. Raggo'],Elsevier / Syngress,December 2015
+Data Mapping for Data Warehouse Design,['Qamar Shahbaz'],Elsevier / Morgan Kaufmann,December 2015
+Embedded Computing and Mechatronics with the PIC32 Microcontroller,"['Kevin Lynch', 'Nicholas Marchuk', 'Matthew Elwin']",Elsevier / Newnes,December 2015
+Python for Secret Agents - Volume II,['Steven Lott'],Packt Publishing,December 2015
+Digital Forensics,['John Sammons'],Elsevier / Syngress,December 2015
+Building Intelligent Information Systems Software,['Thomas D. Feigenbaum'],Elsevier / Morgan Kaufmann,December 2015
+Learning ArcGIS Pro,['Tripp Corbin'],Packt Publishing,December 2015
+"Mastering RStudio – Develop, Communicate, and Collaborate with R","['Julian Hillebrand', 'Maximilian H. Nierhoff']",Packt Publishing,December 2015
+SAP Data Services 4.x Cookbook,['Ivan Shomnikov'],Packt Publishing,December 2015
+Unsupervised Learning with R,['Erik Rodriguez Pacheco'],Packt Publishing,December 2015
+Apache Kafka Cookbook,['Saurabh Minni'],Packt Publishing,December 2015
+Think Python,['Allen B. Downey'],O'Reilly Media,December 2015
+Building Python Real-Time Applications with Storm,"['Kartik Bhatnagar', 'Barry Hart']",Packt Publishing,December 2015
+XQuery,['Priscilla Walmsley'],O'Reilly Media,December 2015
+Data Analysis Using SQL and Excel,['Gordon S. Linoff'],Wiley,December 2015
+Excel Data Analysis For Dummies,"['Stephen L. Nelson', 'E. B. Nelson']",Wiley / For Dummies,November 2015
+Python Data Visualization Cookbook,"['Igor Milovanovic', 'Dimitry Foures', 'Giuseppe Vettigli']",Packt Publishing,November 2015
+Image Processing with ImageJ,"['Jurjen Broeke', 'Jose Maria Mateos Perez', 'Javier Pascau']",Packt Publishing,November 2015
+Creating Data Stories with Tableau Public,"['Ashley Ohmann', 'Matt Floyd']",Packt Publishing,November 2015
+Data Lake Development with Big Data,"['Pradeep Pasupuleti', 'Beulah Salome Purra']",Packt Publishing,November 2015
+Learning ELK Stack,['Saurabh Chhajed'],Packt Publishing,November 2015
+Learning Flask Framework,"['Matt Copperwaite', 'Charles Leifer']",Packt Publishing,November 2015
+Learning Couchbase,['Henry Potsangbam'],Packt Publishing,November 2015
+Python Data Science Cookbook,['Gopi Subramanian'],Packt Publishing,November 2015
+OpenCV 3 Blueprints,"['Joseph Howse', 'Steven Puttemans', 'Quan Hua', 'Utkarsh Sinha']",Packt Publishing,November 2015
+Kibana Essentials,['Yuvraj Gupta'],Packt Publishing,November 2015
+Getting Started with Python Data Analysis,"['Phuong Vo. T. H', 'Martin Czygan']",Packt Publishing,November 2015
+Cassandra Design Patterns,['Rajanarayanan Thottuvaikkatumana'],Packt Publishing,November 2015
+A Study of Black Hole Attack Solutions,"['Elahe Fazeldehkordi', 'Iraj Sadegh Amiri', 'Oluwatobi Ayodeji Akanbi']",Elsevier / Syngress,November 2015
+Strategic Analytics,['Alec Levenson'],Berrett-Koehler Publishers,November 2015
+Introduction to Statistical Machine Learning,['Masashi Sugiyama'],Elsevier / Morgan Kaufmann,October 2015
+Scala Data Analysis Cookbook,['Arun Manivannan'],Packt Publishing,October 2015
+Real Time Analytics with SAP HANA,['Vinay Singh'],Packt Publishing,October 2015
+Learning Node.js for Mobile Application Development,"['Stefan Buttigieg', 'Milorad Jevdjenic']",Packt Publishing,October 2015
+Web Development with MongoDB and NodeJS,"['Mithun Satheesh', ""Bruno Joseph D'mello"", 'Jason Krol']",Packt Publishing,October 2015
+Data Analysis with Stata,['Prasad Kothari'],Packt Publishing,October 2015
+Web Scraping with Python,['Richard Lawson'],Packt Publishing,October 2015
+Mastering ServiceStack,['Andreas Niedermair'],Packt Publishing,October 2015
+Learning Bayesian Models with R,['Dr. Hari M. Koduvely'],Packt Publishing,October 2015
+Learning to Love Data Science,['Mike Barlow'],O'Reilly Media,October 2015
+Data Analysis and Business Modeling with Excel 2013,['David Rojas'],Packt Publishing,October 2015
+Mastering Python Data Visualization,['Kirthi Raman'],Packt Publishing,October 2015
+MariaDB Essentials,"['Emilien Kenler', 'Federico Razzoli']",Packt Publishing,October 2015
+Internet of Things with Arduino Blueprints,['Pradeeka Seneviratne'],Packt Publishing,October 2015
+Elasticsearch for Hadoop,['Vishal Shukla'],Packt Publishing,October 2015
+Building Responsive Data Visualization for the Web,['Bill Hinderman'],Wiley,October 2015
+Learning IPython for Interactive Computing and Data Visualization,['Cyrille Rossant'],Packt Publishing,October 2015
+Creating Stunning Dashboards with QlikView,['Julian Villafuerte'],Packt Publishing,October 2015
+Graphing Data with R,['John Jay Hilfiger'],O'Reilly Media,October 2015
+Learning Shiny,['Hernan G Resnizky'],Packt Publishing,October 2015
+Tableau For Dummies,"['Molly Monsey', 'Paul Sochan']",Wiley / For Dummies,October 2015
+Access 2016 For Dummies,"['Laurie Ulrich Fuller', 'Ken Cook']",Wiley / For Dummies,October 2015
+Mastering Data Analysis with R,['Gergely Daróczi'],Packt Publishing,September 2015
+Digital Java EE 7 Web Application Development,['Peter A. Pilgrim'],Packt Publishing,September 2015
+Mastering Apache Spark,['Mike Frampton'],Packt Publishing,September 2015
+QlikView for Finance,['B. Diane Blackwood'],Packt Publishing,September 2015
+Building a Recommendation System with R,"['Suresh K. Gorakala', 'Michele Usuelli']",Packt Publishing,September 2015
+Big Data for Chimps,"['Philip (flip) Kromer', 'Russell Jurney']",O'Reilly Media,September 2015
+Learning Real-time Processing with Spark Streaming,['Sumit Gupta'],Packt Publishing,September 2015
+Excel VBA Programming For Dummies,['John Walkenbach'],Wiley / For Dummies,September 2015
+Learning Predictive Analytics with R,['Eric Mayor'],Packt Publishing,September 2015
+Python Machine Learning,['Sebastian Raschka'],Packt Publishing,September 2015
+Mastering Social Media Mining with R,"['Sharan Kumar Ravindran', 'Vikram Garg']",Packt Publishing,September 2015
+Text Processing with Ruby,['Rob Miller'],Pragmatic Bookshelf,September 2015
+Mastering ArcGIS Server Development with JavaScript,['Ken Doman'],Packt Publishing,September 2015
+Sharing Big Data Safely,"['Ted Dunning', 'Ellen Friedman']",O'Reilly Media,September 2015
+Building a Scalable Data Warehouse with Data Vault 2.0,"['Dan Linstedt', 'Michael Olschimke']",Elsevier / Morgan Kaufmann,September 2015
+Apache Spark Graph Processing,['Rindra Ramamonjison'],Packt Publishing,September 2015
+Redis Essentials,"['Maxwell Dayvson Da Silva', 'Hugo Lopes Tavares']",Packt Publishing,September 2015
+Clojure for Data Science,['Henry Garner'],Packt Publishing,September 2015
+SAP Lumira Essentials,['Dmitry Anoshin'],Packt Publishing,September 2015
+The Art and Science of Analyzing Software Data,"['Christian Bird', 'Tim Menzies', 'Thomas Zimmermann']",Elsevier / Morgan Kaufmann,September 2015
+Mastering Python for Data Science,['Samir Madhavan'],Packt Publishing,August 2015
+The Architecture of Privacy,"['Courtney Bowman', 'Ari Gesher', 'John K Grant', 'Daniel Slate', 'Elissa Lerner']",O'Reilly Media,August 2015
+Learning YARN,"['Akhil Arora', 'Shrey Mehrotra']",Packt Publishing,August 2015
+Clojure Applied,"['Ben Vandgrift', 'Alex Miller']",Pragmatic Bookshelf,August 2015
+Amazon S3 Cookbook,['Naoya Hashimoto'],Packt Publishing,August 2015
+Structured Search for Big Data,['Mikhail Gilula'],Elsevier / Morgan Kaufmann,August 2015
+Agent-Based Spatial Simulation with NetLogo Volume 1,"['Arnaud Banos', 'Christophe Lang', 'Nicolas Marilleau']",Elsevier / ISTE Press - Elsevier,August 2015
+Big Data Forensics – Learning Hadoop Investigations,['Joe Sremack'],Packt Publishing,August 2015
+OpenGL Data Visualization Cookbook,"['Raymond C. H. Lo', 'William C. Y. Lo']",Packt Publishing,August 2015
+Entity Framework Tutorial,['Joydip Kanjilal'],Packt Publishing,August 2015
+You: For Sale,['Stuart Sumner'],Elsevier / Syngress,August 2015
+Clojure Data Structures and Algorithms Cookbook,['Rafik Naccache'],Packt Publishing,August 2015
+"Emerging Trends in Computational Biology, Bioinformatics, and Systems Biology","['Hamid R. Arabnia', 'Quoc Nam Tran']",Elsevier / Morgan Kaufmann,August 2015
+Introduction to JavaScript Object Notation,['Lindsay Bassett'],O'Reilly Media,August 2015
+Ansible Playbook Essentials,['Gourav Shah'],Packt Publishing,August 2015
+Machine Learning with R,['Brett Lantz'],Packt Publishing,July 2015
+Getting Started with Hazelcast,['Mat Johns'],Packt Publishing,July 2015
+Learning Data Mining with Python,['Robert Layton'],Packt Publishing,July 2015
+Mastering OpenCV Android Application Programming,"['Salil Kapur', 'Nisarg Thakkar']",Packt Publishing,July 2015
+Implementing Splunk,"['Vincent Bumgarner', 'James D. Miller']",Packt Publishing,July 2015
+Programming ArcGIS with Python Cookbook,['Eric Pimpler'],Packt Publishing,July 2015
+Neo4j Graph Data Modeling,['Mahesh Lal'],Packt Publishing,July 2015
+Spark Cookbook,['Rishi Yadav'],Packt Publishing,July 2015
+Oracle GoldenGate 12c Implementer's Guide,['John P Jeffries'],Packt Publishing,July 2015
+Creating a Data-Driven Organization,['Carl Anderson'],O'Reilly Media,July 2015
+QlikView Your Business,"['Oleg Troyansky', 'Tammy Gibson', 'Charlie Leichtweis', 'Lars Bjork']",Wiley,July 2015
+"SAS 9.4 SQL Procedure User's Guide, Second Edition",['SAS Institute'],SAS Institute,July 2015
+Data Algorithms,['Mahmoud Parsian'],O'Reilly Media,July 2015
+Bioinformatics Data Skills,['Vince Buffalo'],O'Reilly Media,July 2015
+Accumulo,"['Aaron Cordova', 'Billie Rinaldi', 'Michael Wall']",O'Reilly Media,July 2015
+Hadoop Application Architectures,"['Mark Grover', 'Ted Malaska', 'Jonathan Seidman', 'Gwen Shapira']",O'Reilly Media,June 2015
+Predictive Analytics Using Rattle and Qlik Sense,['Ferran Garcia Pagans'],Packt Publishing,June 2015
+Learning F# Functional Data Structures and Algorithms,['Adnan Masood'],Packt Publishing,June 2015
+Hadoop Security,"['Ben Spivey', 'Joey Echeverria']",O'Reilly Media,June 2015
+Learning Redis,['Vinoo Das'],Packt Publishing,June 2015
+Bioinformatics with Python Cookbook,['Tiago Antao'],Packt Publishing,June 2015
+JavaScript JSON Cookbook,['Ray Rischpater'],Packt Publishing,June 2015
+Oracle E-Business Suite R12.x HRMS – A Functionality Guide,['Pravin S. Ingawale'],Packt Publishing,June 2015
+Python for Data Science For Dummies,"['John Paul Mueller', 'Luca Massaron']",Wiley / For Dummies,June 2015
+Python Geospatial Analysis Essentials,['Erik Westra'],Packt Publishing,June 2015
+MongoDB Data Modeling,['Wilson da Rocha Franca'],Packt Publishing,June 2015
+Microsoft Dynamics AX 2012 R3 Security,['Ahmed Mohamed Rafik Moustafa'],Packt Publishing,June 2015
+R For Dummies,"['Andrie de Vries', 'Joris Meys']",Wiley / For Dummies,June 2015
+Python Geospatial Development Essentials,['Karim Bahgat'],Packt Publishing,June 2015
+Web Scraping with Python,['Ryan Mitchell'],O'Reilly Media,June 2015
+Graph Databases,"['Ian Robinson', 'Jim Webber', 'Emil Eifrem']",O'Reilly Media,June 2015
+DIY Comms and Control for Amateur Space,['Sandy Antunes'],"Maker Media, Inc",June 2015
+Infinispan Data Grid Platform Definitive Guide,['Wagner Roberto dos Santos'],Packt Publishing,May 2015
+Learning Cascading,"['Michael Covert', 'Victoria Loewengart']",Packt Publishing,May 2015
+Learning Haskell Data Analysis,['James Church'],Packt Publishing,May 2015
+Neo4j Cookbook,['Ankur Goel'],Packt Publishing,May 2015
+R Data Analysis Cookbook,"['Viswa Viswanathan', 'Shanthi Viswanathan']",Packt Publishing,May 2015
+Clean Data,['Megan Squire'],Packt Publishing,May 2015
+Mastering pandas for Finance,['Michael Heydt'],Packt Publishing,May 2015
+FileMaker Pro 14: The Missing Manual,"['Susan Prosser', 'Stuart Gripman']",O'Reilly Media,May 2015
+Crafting the InfoSec Playbook,"['Jeff Bollinger', 'Brandon Enright', 'Matthew Valites']",O'Reilly Media,May 2015
+Data Quality for Analytics Using SAS,['Gerhard Svolba'],SAS Institute,May 2015
+Python Data Science Essentials,"['Alberto Boschetti', 'Luca Massaron']",Packt Publishing,April 2015
+Microsoft System Center Data Protection Manager 2012 R2 Cookbook,['Robert Hedblom'],Packt Publishing,April 2015
+Hadoop for Finance Essentials,['Rajiv Tiwari'],Packt Publishing,April 2015
+Learning Android Forensics,"['Rohit Tamma', 'Donnie Tindall']",Packt Publishing,April 2015
+Mastering AngularJS for .NET Developers,"['Mohammad Wadood Majid', 'Golrokh Mirzaei']",Packt Publishing,April 2015
+Microsoft Dynamics AX 2012 R3 Development Cookbook,['Mindaugas Pocius'],Packt Publishing,April 2015
+Data-oriented Development with AngularJS,['Manoj Waikar'],Packt Publishing,April 2015
+Monitoring Hadoop,['Gurmukh Singh'],Packt Publishing,April 2015
+Scaling Big Data with Hadoop and Solr,['Hrishikesh Vijay Karambelkar'],Packt Publishing,April 2015
+Data Visualization with D3 and AngularJS,['Christoph Korner'],Packt Publishing,April 2015
+Learning Tableau,['Joshua N. Milligan'],Packt Publishing,April 2015
+Ext JS Essentials,"['Stuart Ashworth', 'Andrew Duncan']",Packt Publishing,April 2015
+PostGIS Essentials,['Angel Marquez'],Packt Publishing,April 2015
+Entity Information Life Cycle for Big Data,"['John R. Talburt', 'Yinle Zhou']",Elsevier / Morgan Kaufmann,April 2015
+Data Preparation for Analytics Using SAS,['Gerhard Svolba'],SAS Institute,April 2015
+"Cody's Data Cleaning Techniques Using SAS, Second Edition",['Ron Cody'],SAS Institute,April 2015
+Social Sensing,"['Dong Wang', 'Tarek Abdelzaher', 'Lance Kaplan']",Elsevier / Morgan Kaufmann,April 2015
+Elementary Statistics Using SAS,['Sandra D. Schlotzhauer'],SAS Institute,April 2015
+Learning pandas,['Michael Heydt'],Packt Publishing,April 2015
+Data Science from Scratch,['Joel Grus'],O'Reilly Media,April 2015
+VCA-DCV VMware Certified Associate on vSphere Study Guide,"['Robert Schmidt', 'Dane Charlton']",Wiley / Sybex,April 2015
+Advanced Analytics with Spark,"['Sandy Ryza', 'Uri Laserson', 'Sean Owen', 'Josh Wills']",O'Reilly Media,April 2015
+Exchanging Data between SAS and Microsoft Excel,['William E. Benjamin Jr.'],SAS Institute,April 2015
+Data Manipulation with R,"['Jaynal Abedin', 'Kishor Kumar Das']",Packt Publishing,March 2015
+Fast Data Processing with Spark,"['Krishna Sankar', 'Holden Karau']",Packt Publishing,March 2015
+PostgreSQL for Data Architects,['Jayadevan Maymala'],Packt Publishing,March 2015
+SAP BusinessObjects Dashboards 4.1 Cookbook,"['David Lai', 'Xavier Hacking']",Packt Publishing,March 2015
+Microsoft System Center Reporting Cookbook,"['Samuel Erskine', 'Dieter Gasser', 'Kurt Van Hoecke', 'Nasira Ismail']",Packt Publishing,March 2015
+Real-time Analytics with Storm and Cassandra,['Shilpi Saxena'],Packt Publishing,March 2015
+R Packages,['Hadley Wickham'],O'Reilly Media,March 2015
+QGIS Python Programming Cookbook,['Joel Lawhead'],Packt Publishing,March 2015
+Mastering Apache Cassandra,['Nishant Neeraj'],Packt Publishing,March 2015
+Machine Learning with R Cookbook,"['Yu-Wei', 'Chiu']",Packt Publishing,March 2015
+Building Machine Learning Systems with Python,"['Luis Pedro Coelho', 'Willi Richert']",Packt Publishing,March 2015
+Hadoop: The Definitive Guide,['Tom White'],O'Reilly Media,March 2015
+RESTful Web API Design with Node.js,['Valentin Bojinov'],Packt Publishing,March 2015
+Ruby Cookbook,"['Lucas Carlson', 'Leonard Richardson']",O'Reilly Media,March 2015
+Real-World Hadoop,"['Ted Dunning', 'Ellen Friedman']",O'Reilly Media,March 2015
+Machine Learning in Python,['Michael Bowles'],Wiley,March 2015
+Multi-Domain Master Data Management,"['Mark Allen', 'Dalton Cervo']",Elsevier / Morgan Kaufmann,March 2015
+Code-First Development with Entity Framework,['Sergey Barskiy'],Packt Publishing,March 2015
+Data Visualization with JavaScript,['Stephen A. Thomas'],No Starch Press,March 2015
+Mastering R for Quantitative Finance,"['Edina Berlinger', 'Ferenc Illes', 'Milan Badics', 'Adam Banai', 'Gergely Daróczi', '...']",Packt Publishing,March 2015
+Learning iOS Forensics,"['Mattia Epifani', 'Pasquale Stirparo']",Packt Publishing,March 2015
+Green Information Technology,"['Mohammad Dastbaz', 'Colin Pattinson', 'Babak Akhgar']",Elsevier / Morgan Kaufmann,March 2015
+Field Guide to Hadoop,"['Kevin Sitto', 'Marshall Presser']",O'Reilly Media,March 2015
+Neo4j High Performance,['Sonal Raj'],Packt Publishing,March 2015
+Discovering JMP 12,['SAS Institute'],SAS Institute,March 2015
+JMP 12 Scripting Guide,['SAS Institute'],SAS Institute,March 2015
+Cloud Data Centers and Cost Modeling,"['Caesar Wu', 'Rajkumar Buyya']",Elsevier / Morgan Kaufmann,February 2015
+KnockoutJS Web Development,['John Farrar'],Packt Publishing,February 2015
+KnockoutJS Essentials,['Jorge Ferrando'],Packt Publishing,February 2015
+Apache Hive Essentials,['Dayong Du'],Packt Publishing,February 2015
+Getting Started with Julia,['Ivo Balbaert'],Packt Publishing,February 2015
+PostgreSQL Server Programming,"['Usama Dar', 'Hannu Krosing', 'Jim Mlodgenski', 'Kirk Roybal']",Packt Publishing,February 2015
+Vagrant Virtual Development Environment Cookbook,['Chad Thompson'],Packt Publishing,February 2015
+Couchbase Essentials,['John Zablocki'],Packt Publishing,February 2015
+KnockoutJS Blueprints,['Carlo Russo'],Packt Publishing,February 2015
+Apache Flume: Distributed Log Collection for Hadoop,['Steve Hoffman'],Packt Publishing,February 2015
+Mastering Entity Framework,['Rahul Rajat Singh'],Packt Publishing,February 2015
+Neo4j Essentials,['Sumit Gupta'],Packt Publishing,February 2015
+Learning Heroku Postgres,['Patrick Espake'],Packt Publishing,February 2015
+Splunk Essentials,['Betsy Page Sigman'],Packt Publishing,February 2015
+Data Science For Dummies,['Lillian Pierson'],Wiley / For Dummies,February 2015
+Machine Learning with Spark,['Nick Pentreath'],Packt Publishing,February 2015
+Learning Hadoop 2,"['Garry Turkington', 'Gabriele Modena']",Packt Publishing,February 2015
+Cognitive Computing and Big Data Analytics,"['Judith Hurwitz', 'Marcia Kaufman', 'Adrian Bowles']",Wiley,February 2015
+Learning Qlik® Sense: The Official Guide,"['Christopher Ilacqua', 'Henric Cronstrom', 'James Richardson']",Packt Publishing,February 2015
+Learning Data Mining with R,['Bater Makhabel'],Packt Publishing,January 2015
+PostgreSQL Cookbook,['Chitij Chauhan'],Packt Publishing,January 2015
+Functional Python Programming,['Steven Lott'],Packt Publishing,January 2015
+Salesforce CRM – The Definitive Admin Handbook,['Paul Goodey'],Packt Publishing,January 2015
+R Data Visualization Cookbook,['Atmajitsinh Gohil'],Packt Publishing,January 2015
+R High Performance Programming,"['Aloysius Lim', 'William Tjhi']",Packt Publishing,January 2015
+Learning Spark,"['Holden Karau', 'Andy Konwinski', 'Patrick Wendell', 'Matei Zaharia']",O'Reilly Media,January 2015
+Clojure Data Analysis Cookbook,['Eric Rochester'],Packt Publishing,January 2015
+HDInsight Essentials,['Rajesh Nadipalli'],Packt Publishing,January 2015
+Solr Cookbook,['Rafal Kuc'],Packt Publishing,January 2015
+Elasticsearch: The Definitive Guide,"['Clinton Gormley', 'Zachary Tong']",O'Reilly Media,January 2015
+ArcGIS for Desktop Cookbook,['Daniela Cristiana Docan'],Packt Publishing,January 2015
+Graph Analysis and Visualization,"['Richard Brath', 'David Jonker']",Wiley,January 2015
+Learning Informatica PowerCenter 9.x,['Rahul Malewar'],Packt Publishing,December 2014
+Learning D3.js Mapping,"['Thomas Newton', 'Oscar Villarreal']",Packt Publishing,December 2014
+Mastering Hadoop,['Sandeep Karanth'],Packt Publishing,December 2014
+Cassandra High Availability,['Robbie Strickland'],Packt Publishing,December 2014
+Mastering SQL Server 2014 Data Mining,"['Amarpreet Singh Bassan', 'Debarchan Sarkar']",Packt Publishing,December 2014
+Learning R for Geospatial Analysis,['Michael Dorman'],Packt Publishing,December 2014
+Hyper-V Security,"['Eric Siron', 'Andy Syrewicze']",Packt Publishing,December 2014
+R for Data Science,['Dan Toomey'],Packt Publishing,December 2014
+C# Multithreaded and Parallel Programming,['Rodney Ringler'],Packt Publishing,December 2014
+Cassandra Data Modeling and Analysis,['C. Y. Kan'],Packt Publishing,December 2014
+Data Science and Big Data Analytics,['EMC Education Services'],Wiley,December 2014
+Zwinna analiza danych. Apache Hadoop dla ka?dego,['Russell Jurney'],Helion,December 2014
+Sharing Data and Models in Software Engineering,"['Tim Menzies', 'Ekrem Kocaguneli', 'Burak Turhan', 'Leandro Minku', 'Fayola Peters']",Elsevier / Morgan Kaufmann,December 2014
+Mastering Splunk,['James D. Miller'],Packt Publishing,December 2014
+Scala for Machine Learning,['Patrick R. Nicolas'],Packt Publishing,December 2014
+Google Compute Engine,"['Marc Cohen', 'Kathryn Hurley', 'Paul Newson']",O'Reilly Media,December 2014
+Getting a Big Data Job For Dummies,['Jason Williamson'],Wiley / For Dummies,December 2014
+Python for Finance,['Yves Hilpisch'],O'Reilly Media,December 2014
+Reliability Assurance of Big Data in the Cloud,"['Yun Yang', 'Wenhao Li', 'Dong Yuan']",Elsevier / Morgan Kaufmann,December 2014
+"Learning PHP, MySQL & JavaScript",['Robin Nixon'],O'Reilly Media,December 2014
+Introduction to Regular Expressions in SAS,['CAP Matthew Windham'],SAS Institute,December 2014
+Developing Credit Risk Models Using SAS Enterprise Miner and SAS/STAT,['Iain L. J. Brown Ph.D'],SAS Institute,December 2014
+Predictive Analytics and Data Mining,"['Vijay Kotu', 'Bala Deshpande']",Elsevier / Morgan Kaufmann,November 2014
+Data Architecture: A Primer for the Data Scientist,"['W. H. Inmon', 'Dan Linstedt']",Elsevier / Morgan Kaufmann,November 2014
+Mastering QlikView,['Stephen Redmond'],Packt Publishing,November 2014
+Information Security Analytics,"['Mark Talabis', 'Robert S. McPherson', 'Inez Miyamoto', 'Jason Martin']",Elsevier / Syngress,November 2014
+Enterprise Business Intelligence and Data Warehousing,['Alan Simon'],Elsevier / Morgan Kaufmann,November 2014
+RDF Database Systems,"['Olivier Curé', 'Guillaume Blin']",Elsevier / Morgan Kaufmann,November 2014
+Text Mining and Analysis,"['Goutam Chakraborty', 'Murali Pagolu', 'Satish Garla']",SAS Institute,November 2014
+IPython Notebook Essentials,['L. Felipe Martins'],Packt Publishing,November 2014
+Time Series Databases: New Ways to Store and Access Data,"['Ted Dunning', 'Ellen Friedman']",O'Reilly Media,November 2014
+Juniper QFX5100 Series,['Douglas Richard Hanks Jr.'],O'Reilly Media,November 2014
+JavaScript and jQuery for Data Analysis and Visualization,"['Jon Raasch', 'Graham Murray', 'Vadim Ogievetsky', 'Joseph W. Lowery']",Wiley / Wrox,November 2014
+HBase Essentials,['Nishant Garg'],Packt Publishing,November 2014
+Social Data Analytics,"['Krish Krishnan', 'Shawn B. Rogers']",Elsevier / Morgan Kaufmann,November 2014
+Behind Every Good Decision,"['Piyanka Jain', 'Puneet Sharma']",AMACOM,November 2014
+Business Intelligence Guidebook,['Rick Sherman'],Elsevier / Morgan Kaufmann,November 2014
+scikit-learn Cookbook,['Trent Hauck'],Packt Publishing,November 2014
+Highcharts Essentials,['Bilal Shahid'],Packt Publishing,October 2014
+Learning Big Data with Amazon Elastic MapReduce,"['Amarkant Singh', 'Vijay Rayapati']",Packt Publishing,October 2014
+Making Big Data Work for Your Business,['Sudhi Sinha'],Packt Publishing / ImPackt Publishing,October 2014
+Python Data Analysis,['Ivan Idris'],Packt Publishing,October 2014
+R Graphs Cookbook,"['Jaynal Abedin', 'Hrishi V. Mittal']",Packt Publishing,October 2014
+Learning JavaScript Data Structures and Algorithms,['Loiane Groner'],Packt Publishing,October 2014
+R Object-oriented Programming,['Kelly Black'],Packt Publishing,October 2014
+Automating Microsoft Azure Infrastructure Services,"['Michael Washam', 'Mark Russinovich']",O'Reilly Media,October 2014
+Think Stats,['Allen B. Downey'],O'Reilly Media,October 2014
+Optimized Cloud Resource Management and Scheduling,"['Wenhong Tian', 'Yong Zhao']",Elsevier / Morgan Kaufmann,October 2014
+Machine Learning,['Jason Bell'],Wiley,October 2014
+PCI Compliance,"['Branden R. Williams', 'Anton Chuvakin']",Elsevier / Syngress,October 2014
+60 Recipes for Apache CloudStack,['Sébastien Goasguen'],O'Reilly Media,October 2014
+Administrative Healthcare Data,"['Craig Dickstein', 'Renu Gehring']",SAS Institute,October 2014
+Business Analytics Using SAS Enterprise Guide and SAS Enterprise Miner,['Olivia Parr-Rud'],SAS Institute,October 2014
+Data Fluency,"['Zach Gemignani', 'Chris Gemignani', 'Richard Galentino', 'Patrick Schuermann']",Wiley,September 2014
+Data Science at the Command Line,['Jeroen Janssens'],O'Reilly Media,September 2014
+Practical Data Science Cookbook,"['Tony Ojeda', 'Sean Murphy', 'Benjamin Bengfort', 'Abhijit Dasgupta']",Packt Publishing,September 2014
+Mathematica Data Visualization,['Nazmus Saquib'],Packt Publishing,September 2014
+Guerrilla Analytics,['Enda Ridge'],Elsevier / Morgan Kaufmann,September 2014
+Getting Started with Impala,['John Russell'],O'Reilly Media,September 2014
+Microsoft System Center Configuration Manager Advanced Deployment,['Martyn Coupland'],Packt Publishing,September 2014
+IPython Interactive Computing and Visualization Cookbook,['Cyrille Rossant'],Packt Publishing,September 2014
+JavaScript Promises Essentials,['Rami Sarieddine'],Packt Publishing,September 2014
+Redis Applied Design Patterns,['Arun Chinnachamy'],Packt Publishing,September 2014
+DynamoDB Applied Design Patterns,"['Uchit Vyas', 'Prabhakaran Kuppusamy']",Packt Publishing,September 2014
+MariaDB High Performance,['Pierre MAVRO'],Packt Publishing,September 2014
+I Heart Logs,['Jay Kreps'],O'Reilly Media,September 2014
+R Graph Essentials,['David Alexander Lillis'],Packt Publishing,September 2014
+Using Flume,['Hari Shreedharan'],O'Reilly Media,September 2014
+Data Mining For Dummies,['Meta S. Brown'],Wiley / For Dummies,September 2014
+Modern Enterprise Business Intelligence and Data Management,['Alan Simon'],Elsevier / Morgan Kaufmann,August 2014
+Making Makers,['AnnMarie Thomas'],"Maker Media, Inc",August 2014
+SAP BusinessObjects Reporting Cookbook,['Yoav Yahav'],Packt Publishing,August 2014
+Mastering NServiceBus and Persistence,['Rich Helton'],Packt Publishing,August 2014
+Android SQLite Essentials,"['Sunny Kumar Aditya', 'Vikash Kumar Karn']",Packt Publishing,August 2014
+Python for Secret Agents,['Steven F. Lott'],Packt Publishing,August 2014
+Learning jqPlot,['Scott Gottreu'],Packt Publishing,August 2014
+Learning Python Data Visualization,['Chad Adams'],Packt Publishing,August 2014
+Mastering DynamoDB,['Tanmay Deshpande'],Packt Publishing,August 2014
+Mastering D3.js,['Pablo Navarro Castillo'],Packt Publishing,August 2014
+Customer Experience 3.0,['John A. GOODMAN'],AMACOM,August 2014
+Bitemporal Data,['Tom Johnston'],Elsevier / Morgan Kaufmann,August 2014
+Time and Relational Theory,"['C. J. Date', 'Hugh Darwen', 'Nikos Lorentzos']",Elsevier / Morgan Kaufmann,August 2014
+Building an Information Security Awareness Program,"['Bill Gardner', 'Valerie Thomas']",Elsevier / Syngress,August 2014
+Git Version Control Cookbook,"['Aske Olsson', 'Rasmus Voss']",Packt Publishing,July 2014
+MongoDB High Availability,['Afshin Mehrabani'],Packt Publishing,July 2014
+Practical Machine Learning: A New Look at Anomaly Detection,"['Ted Dunning', 'Ellen Friedman']",O'Reilly Media,July 2014
+Cloudera Administration Handbook,['Rohit Menon'],Packt Publishing,July 2014
+Professional ASP.NET MVC 5,"['Jon Galloway', 'Brad Wilson', 'K. Scott Allen', 'David Matson']",Wiley / Wrox,July 2014
+Multiple Imputation of Missing Data Using SAS,"['Patricia Berglund', 'Steven G. Heeringa']",SAS Institute,July 2014
+"Practical Data Analysis with JMP, Second Edition",['Robert Carver'],SAS Institute,July 2014
+Risk-Based Monitoring and Fraud Detection in Clinical Trials Using JMP and SAS,['Richard C. Zink'],SAS Institute,July 2014
+Seven Concurrency Models in Seven Weeks,['Paul Butcher'],Pragmatic Bookshelf,June 2014
+Readings in Artificial Intelligence and Databases,"['John Mylopoulos', 'Michael L. Brodie']",Elsevier / Morgan Kaufmann,June 2014
+Haskell Data Analysis Cookbook,['Nishant Shukla'],Packt Publishing,June 2014
+Pentaho Business Analytics Cookbook,['Sergio Ramazzina'],Packt Publishing,June 2014
+Building Probabilistic Graphical Models with Python,['Kiran R Karkera'],Packt Publishing,June 2014
+Learning ArcGIS Geodatabases,['Hussein Nasser'],Packt Publishing,June 2014
+Bioinformatics with R Cookbook,['Paurush Praveen Sinha'],Packt Publishing,June 2014
+Real-Time Analytics,['Byron Ellis'],Wiley,June 2014
+Communicating Data with Tableau,['Ben Jones'],O'Reilly Media,June 2014
+Modellierung von Business-Intelligence-Systemen,['Michael Hahne'],dpunkt,June 2014
+MongoDB,['Tobias Trelle'],dpunkt,June 2014
+Hands-On Programming with R,['Garrett Grolemund'],O'Reilly Media,June 2014
+Infographics For Dummies,"['MBA Justin Beegel', 'World']",Wiley / For Dummies,June 2014
+Cloud Networking,['Gary Lee'],Elsevier / Morgan Kaufmann,June 2014
+Mastering Clojure Data Analysis,['Eric Rochester'],Packt Publishing,May 2014
+WebGL HOTSHOT,['Mitch Williams'],Packt Publishing,May 2014
+"Learning PHP, MySQL, JavaScript, CSS & HTML5",['Robin Nixon'],O'Reilly Media,May 2014
+Google BigQuery Analytics,"['Jordan Tigani', 'Siddartha Naidu']",Wiley,May 2014
+Proceedings of the Third International Conference on Data and Knowledge Bases,"['C. Beeri', 'J. W. Schmidt', 'U. Dayal']",Elsevier / Morgan Kaufmann,May 2014
+SAS Programming with Medicare Administrative Data,['Matthew Gillingham'],SAS Institute,May 2014
+Supercommunicator,['Frank J. Pietrucha'],AMACOM,May 2014
+Getting Started with Bluetooth Low Energy,"['Kevin Townsend', 'Carles Cufí', 'Akiba', 'Robert Davidson']",O'Reilly Media,April 2014
+Learning Veeam® Backup & Replication for VMware vSphere,['Christian Mohn'],Packt Publishing,April 2014
+Pig Design Patterns,['Pradeep Pasupuleti'],Packt Publishing,April 2014
+Microsoft Business Intelligence Tools for Excel Analysts,"['Michael Alexander', 'Jared Decker', 'Bernard Wehbe']",Wiley,April 2014
+Real-Time Communication with WebRTC,"['Salvatore Loreto', 'Simon Pietro Romano']",O'Reilly Media,April 2014
+Excel Data Analysis For Dummies,"['Stephen L. Nelson', 'E. B. Nelson']",Wiley / For Dummies,April 2014
+VCP5-DCV VMware Certified Professional-Data Center Virtualization on vSphere ...,['Brian Atkinson'],Wiley / Sybex,April 2014
+MySQL High Availability,"['Charles Bell', 'Mats Kindahl', 'Lars Thalmann']",O'Reilly Media,April 2014
+Think Bigger,['MARK VAN RIJMENAM'],AMACOM,April 2014
+Applied Predictive Analytics,['Dean Abbott'],Wiley,March 2014
+It's Not the Size of the Data -- It's How You Use It,['KOEN PAUWELS'],AMACOM,March 2014
+Developing Analytic Talent,['Vincent Granville'],Wiley,March 2014
+Social Media Mining with R,"['Nathan Danneman', 'Richard Heimann']",Packt Publishing,March 2014
+Hadoop For Dummies,['Dirk deRoos'],Wiley / For Dummies,March 2014
+Data Push Apps with HTML5 SSE,['Darren Cook'],O'Reilly Media,March 2014
+VMware Horizon Workspace Essentials,"['Peter von Oven', 'Peter Bjork', 'Joel Lindberg']",Packt Publishing,March 2014
+Pragmatic Enterprise Architecture,['James Luisi'],Elsevier / Morgan Kaufmann,March 2014
+Ethernet: The Definitive Guide,"['Charles E. Spurgeon', 'Joann Zimmerman']",O'Reilly Media,March 2014
+Data Structures and Algorithms with JavaScript,['Michael McMillan'],O'Reilly Media,March 2014
+Mastering iOS Development - Motion Framework,['Keith Welch'],Infinite Skills,March 2014
+Excel Dashboards and Reports For Dummies,['Michael Alexander'],Wiley / For Dummies,March 2014
+FlowingData.com Data Visualization Set,['Nathan Yau'],Wiley,March 2014
+Attack and Defend Computer Security Set,"['Dafydd Stuttard', 'Marcus Pinto', 'Michael Ligh', 'Steven Adair', 'Blake Hartstein', '...']",Wiley,March 2014
+Data Protection for Photographers,['Patrick H. Corrigan'],Rocky Nook,February 2014
+Expert Cube Development with SSAS Multidimensional Models,"['Chris Webb', 'Alberto Ferrari', 'Marco Russo']",Packt Publishing,February 2014
+Talend for Big Data,['Bahaaldine Azarmi'],Packt Publishing,February 2014
+Optimizing Hadoop for MapReduce,['Khaled Tannir'],Packt Publishing,February 2014
+Google Apps Script for Beginners,['Serge Gabet'],Packt Publishing,February 2014
+Citrix® XenMobile™ Mobile Device Management,['Akash Phoenix'],Packt Publishing,February 2014
+Microsoft Big Data Solutions,"['Adam Jorgensen', 'James Rowland-Jones', 'John C. Welch', 'Dan Clark', 'Christopher ...']",Wiley,February 2014
+Learning Cocoa with Objective-C,"['Paris Buttfield-Addison', 'Jonathon Manning', 'Tim Nugent']",O'Reilly Media,February 2014
+Data Crush,['Christopher Surdak'],AMACOM,February 2014
+Using JMP 11,['SAS Institute'],SAS Institute,February 2014
+JMP 11 Scripting Guide,['SAS Institute'],SAS Institute,February 2014
+Network Security Through Data Analysis,['Michael Collins'],O'Reilly Media,February 2014
+Hacking Point of Sale,['Slava Gomzin'],Wiley,February 2014
+Commercial Data Mining,['David Nettleton'],Elsevier / Morgan Kaufmann,January 2014
+Programming Sound with Pure Data,['Tony Hillerson'],Pragmatic Bookshelf,January 2014
+Cassandra Design Patterns,['Sanjay K. Sharma'],Packt Publishing,January 2014
+PostGIS Cookbook,"['Paolo Corti', 'Thomas J. Kraft', 'Stephen Vincent Mather', 'Bborie Park']",Packt Publishing,January 2014
+"Ask, Measure, Learn","['Lutz Finger', 'Soumitra Dutta']",O'Reilly Media,January 2014
+Team Foundation Server 2013 Customization,['Gordon Beeming'],Packt Publishing,January 2014
+Thinking with Data,['Max Shron'],O'Reilly Media,January 2014
+QlikView Server and Publisher,['Stephen Redmond'],Packt Publishing,January 2014
+Data-Driven Security,"['Jay Jacobs', 'Bob Rudis']",Wiley,January 2014
+Data Manipulation with R,['Jaynal Abedin'],Packt Publishing,January 2014
+Beginning NFC,"['Tom Igoe', 'Don Coleman', 'Brian Jepson']",O'Reilly Media,January 2014
+Marketing Analytics,['Wayne L. Winston'],Wiley,January 2014
+Data Visualization For Dummies,"['Mico Yuk', 'Stephanie Diamond']",Wiley / For Dummies,January 2014
+Peer-to-Peer Leadership,['Mila N. Baker'],Berrett-Koehler Publishers,January 2014
+Implementing Cisco UCS Solutions,"['Farhan Ahmed Nadeem', 'Prasenjit Sarkar']",Packt Publishing,December 2013
+SQL Server Analysis Services 2012 Cube Development Cookbook,"['Baya Dewald', 'Steve Hughes', 'Paul Turley']",Packt Publishing,December 2013
+Ext JS Data-driven Application Design,['Kazuhiro Kotsutsumi'],Packt Publishing,December 2013
+SAP HANA Cookbook,"['Chandrasekhar Mankala', 'Ganesh Mahadevan V.']",Packt Publishing,December 2013
+Learning Cloudera Impala,['Avkash Chauhan'],Packt Publishing,December 2013
+Asynchronous Android,['Steve Liles'],Packt Publishing,December 2013
+Getting Started with Flurry Analytics,['Bhanu Birani'],Packt Publishing,December 2013
+Enterprise Application Development with Ext JS and Spring,['Gerald Gierer'],Packt Publishing,December 2013
+ASP.NET Web API: Build RESTful web applications and services on the .NET ...,['Joydip Kanjilal'],Packt Publishing,December 2013
+Anonymizing Health Data,"['Khaled El Emam', 'Luk Arbuckle']",O'Reilly Media,December 2013
+Programming Elastic MapReduce,"['Kevin Schmidt', 'Christopher Phillips']",O'Reilly Media,December 2013
+Information Management,['William McKnight'],Elsevier / Morgan Kaufmann,November 2013
+Python Data Visualization Cookbook,['Igor Milovanovic'],Packt Publishing,November 2013
+Pentaho for Big Data Analytics,"['Manoj R Patil', 'Feris Thia']",Packt Publishing,November 2013
+Exploring Data with RapidMiner,['Andrew Chisholm'],Packt Publishing,November 2013
+Big Data Analytics with R and Hadoop,['Vignesh Prajapati'],Packt Publishing,November 2013
+Game Data Analysis – Tools and Methods,['Coupart Thibault'],Packt Publishing,November 2013
+Hadoop Cluster Deployment,['Danil Zburivsky'],Packt Publishing,November 2013
+PowerPivot for Advanced Reporting and Dashboards,['Robert Bosco J'],Packt Publishing,November 2013
+Learning Cassandra for Administrators,['Vijay Parthasarathy'],Packt Publishing,November 2013
+QlikView Scripting,['Matt Floyd'],Packt Publishing,November 2013
+Learning scikit-learn: Machine Learning in Python,"['Raúl Garreta', 'Guillermo Moncecchi']",Packt Publishing,November 2013
+Instant Java Password and Authentication Security,['Fernando Mayoral'],Packt Publishing,November 2013
+Pentaho Data Integration Cookbook,"['Alex Meadows', 'Adrian Sergio Pulvirenti', 'Maria Carina Roldan']",Packt Publishing,November 2013
+Securing Hadoop,['Sujoy Acharya'],Packt Publishing,November 2013
+Learning Bing Maps API,['Artan Sinani'],Packt Publishing,November 2013
+The Basics of Digital Privacy,['Denny Cherry'],Elsevier / Syngress,November 2013
+Getting Started with LevelDB,['Andy Dent'],Packt Publishing,November 2013
+Data Smart,['John W. Foreman'],Wiley,October 2013
+Data Visualization with d3.js,['Swizec Teller'],Packt Publishing,October 2013
+Instant JQuery Flot Visual Data Analysis,['Brian Peiris'],Packt Publishing,October 2013
+Haskell Financial Data Modeling and Predictive Analytics,['Pavel Ryzhov'],Packt Publishing,October 2013
+Machine Learning with R,['Brett Lantz'],Packt Publishing,October 2013
+Talend Open Studio Cookbook,['Rick Barton'],Packt Publishing,October 2013
+Mastering Apache Cassandra,['Nishant Neeraj'],Packt Publishing,October 2013
+Reporting with Visual Studio and Crystal Reports,['Mahmoud Elkoush'],Packt Publishing,October 2013
+Learning Geospatial Analysis with Python,['Joel Lawhead'],Packt Publishing,October 2013
+Mastering ElasticSearch,"['Rafal Kuc', 'Marek Rogozinski']",Packt Publishing,October 2013
+Software Defined Networking with OpenFlow,['Siamak Azodolmolky'],Packt Publishing,October 2013
+Data Visualization with D3.js Cookbook,['Nick Qi Zhu'],Packt Publishing,October 2013
+Pentaho Data Integration Beginner's Guide,['Maria Carina Roldan'],Packt Publishing,October 2013
+VMware vCloud Director Cookbook,['Daniel Langenhan'],Packt Publishing,October 2013
+JavaScript and JSON Essentials,['Sai Srinivas Sriparasa'],Packt Publishing,October 2013
+Getting Started with Greenplum for Big Data Analytics,['Sunila Gollapudi'],Packt Publishing,October 2013
+Fast Data Processing with Spark,['Holden Karau'],Packt Publishing,October 2013
+IBM SPSS Modeler Cookbook,"['Keith McCormick', 'Dean Abbott', 'Meta S. Brown', 'Tom Khabaza', 'Scott R. Mutchler']",Packt Publishing,October 2013
+Practical Data Analysis,['Hector Cuesta'],Packt Publishing,October 2013
+Logic Designer's Handbook,['E. A. Parr'],Elsevier / Newnes,October 2013
+Audio IC Projects,['Keith Brindley'],Elsevier / Newnes,October 2013
+Getting Started with the Graph Template Language in SAS,['Sanjay Matange'],SAS Institute,October 2013
+Getting Started with MariaDB,['Daniel Bartholomew'],Packt Publishing,October 2013
+Web Application Development with R using Shiny,['Chris Beeley'],Packt Publishing,October 2013
+Application Development with Parse using iOS SDK,['Bhanu Birani'],Packt Publishing,October 2013
+Python and HDF5,['Andrew Collette'],O'Reilly Media,October 2013
+Tableau Your Data!,"['Daniel G. Murray', 'Christian Chabot']",Wiley,October 2013
+Cool Infographics,['Randy Krum'],Wiley,October 2013
+The Changing Role of the CIO,['Mike Barlow'],O'Reilly Media,October 2013
+Apache Accumulo for Developers,['Guomundur Jon Halldorsson'],Packt Publishing,October 2013
+KNIME Essentials,['Gabor Bakos'],Packt Publishing,October 2013
+Agile Data Science,['Russell Jurney'],O'Reilly Media,October 2013
+Fine Art Printing for Photographers,"['Uwe Steinmueller', 'Juergen Gulbins']",Rocky Nook,October 2013
+Design and Analysis of Experiments by Douglas Montgomery: A Supplement for ...,"['Heath Rushing', 'Andrew Karl', 'James Wisnowski']",SAS Institute,October 2013
+Doing Data Science,"[""Cathy O'Neil"", 'Rachel Schutt']",O'Reilly Media,October 2013
+Joe Celko’s Complete Guide to NoSQL,['Joe Celko'],Elsevier / Morgan Kaufmann,October 2013
+Mining the Social Web,['Matthew A. Russell'],O'Reilly Media,October 2013
+Temporal Data and Relational Theory,['C.J. Date'],O'Reilly Media,October 2013
+Testen von Data-Warehouse- und Business-Intelligence-Systemen,"['Herbert Stauffer', 'Beat Honegger', 'Hanspeter Gisin']",dpunkt,October 2013
+Discovering Partial Least Squares with JMP,"['Ian Cox', 'Marie Gaudard']",SAS Institute,October 2013
+Learning QlikView Data Visualization,['Karl Pover'],Packt Publishing,September 2013
+Social Data Visualization with HTML5 and JavaScript,['Simon Timms'],Packt Publishing,September 2013
+Applying and Extending Oracle Spatial,"['Simon Greener', 'Siva Ravada']",Packt Publishing,September 2013
+Instant Apache Camel Messaging System,['Evgeniy Sharapov'],Packt Publishing,September 2013
+Developing SSRS Reports for Dynamics AX,['Mukesh Hirwani'],Packt Publishing,September 2013
+Instant Cassandra Query Language,['Amresh Singh'],Packt Publishing,September 2013
+Android Application Programming with OpenCV,['Joseph Howse'],Packt Publishing,September 2013
+Instant XenMobile MDM,['Aamir Lakhani'],Packt Publishing,September 2013
+Network Graph Analysis and Visualization with Gephi,['Ken Cherven'],Packt Publishing,September 2013
+HDInsight Essentials,['Rajesh Nadipalli'],Packt Publishing,September 2013
+Big Data,['Bill Schmarzo'],Wiley,September 2013
+Data Driven Marketing For Dummies,['David Semmelroth'],Wiley / For Dummies,September 2013
+Feedback Control for Computer Systems,['Philipp K. Janert'],O'Reilly Media,September 2013
+Data Stewardship,['David Plotkin'],Elsevier / Morgan Kaufmann,September 2013
+Using OpenRefine,"['Ruben Verborgh', 'Max De Wilde']",Packt Publishing,September 2013
+Learning R,['Richard Cotton'],O'Reilly Media,September 2013
+JMP 11 Essential Graphing,['SAS Institute'],SAS Institute,September 2013
+JMP 11 Reliability and Survival Methods,['SAS Institute'],SAS Institute,September 2013
+RavenDB 2.x Beginner's Guide,['Khaled Tannir'],Packt Publishing,September 2013
+HTML5 Data and Services Cookbook,"['Gorgi Kosev', 'Mite Mitreski']",Packt Publishing,September 2013
+AngularJS Directives,['Alex Vanston'],Packt Publishing,September 2013
+Professional Hadoop Solutions,"['Boris Lublinsky', 'Kevin T. Smith', 'Alexey Yakubovich']",Wiley / Wrox,August 2013
+Total Information Risk Management,"['Alexander Borek', 'Ajith Kumar Parlikad', 'Jela Webb', 'Philip Woodall']",Elsevier / Morgan Kaufmann,August 2013
+Getting Started with Hazelcast,['Mat Johns'],Packt Publishing,August 2013
+Storm Real-Time Processing Cookbook,['Quinton Anderson'],Packt Publishing,August 2013
+Scaling Big Data with Hadoop and Solr,['Hrishikesh Vijay Karambelkar'],Packt Publishing,August 2013
+Tableau Data Visualization Cookbook,['Ashutosh Nandeshwar'],Packt Publishing,August 2013
+Instant Apache Sqoop,['Ankit Jain'],Packt Publishing,August 2013
+Instant Effective Caching with Ehcache,['Daniel Wind'],Packt Publishing,August 2013
+Mongoose for Application Development,['Simon Holmes'],Packt Publishing,August 2013
+Getting Started with OrientDB,['Claudio Tesoriero'],Packt Publishing,August 2013
+Microsoft SQL Server 2012 with Hadoop,['Debarchan Sarkar'],Packt Publishing,August 2013
+Instant MDX Queries for SQL Server 2012,['Nicholas Emond'],Packt Publishing,August 2013
+Instant Apache Wicket 6,"['Felipe Fedel Pinto', 'Joao Savio Ceregatti Longo']",Packt Publishing,August 2013
+Instant GSON,['Sandeep Kumar Patel'],Packt Publishing,August 2013
+Instant Vert.x,['Simone Scarduzio'],Packt Publishing,August 2013
+Instant Microsoft SQL Server Analysis Service 2012 Dimensions and Cube,['Anurag Acharya'],Packt Publishing,August 2013
+Big Data Analytics,['David Loshin'],Elsevier / Morgan Kaufmann,August 2013
+Mule ESB Cookbook,"['Zakir Laliwala', 'Abdul Samad', 'Azaz Desai', 'Uchit Vyas']",Packt Publishing,August 2013
+SAS Business Intelligence for the Health Care Industry,['Renu Gehring'],SAS Institute,August 2013
+iCloud for Developers,['Cesare Rocchi'],Pragmatic Bookshelf,August 2013
+Ham Radio For Dummies,['H. Ward Silver'],Wiley / For Dummies,July 2013
+Data Science for Business,"['Foster Provost', 'Tom Fawcett']",O'Reilly Media,July 2013
+Instant Pentaho Data Integration Kitchen,['Sergio Ramazzina'],Packt Publishing,July 2013
+Instant PHP Web Scraping,['Jacob Ward'],Packt Publishing,July 2013
+Building Machine Learning Systems with Python,"['Willi Richert', 'Luis Pedro Coelho']",Packt Publishing,July 2013
+Instant Apache Stanbol,['Reto Bachmann-Gmur'],Packt Publishing,July 2013
+Instant Parallel Processing with Gearman,['John Ewart'],Packt Publishing,July 2013
+Instant Highcharts,['Cyril Grandjean'],Packt Publishing,July 2013
+Instant Kendo UI Grid,['James R. Lamar'],Packt Publishing,July 2013
+Instant QlikView 11 Application Development,['B. Diane Blackwood'],Packt Publishing,July 2013
+Hadoop Operations and Cluster Management Cookbook,['Shumin Guo'],Packt Publishing,July 2013
+Getting Started with ownCloud,['Aditya Patawari'],Packt Publishing,July 2013
+Instant Oracle GoldenGate,['Tony Bruzzese'],Packt Publishing,July 2013
+Node Web Development,['David Herron'],Packt Publishing,July 2013
+Apache Flume: Distributed Log Collection for Hadoop,['Steve Hoffman'],Packt Publishing,July 2013
+Enterprise Data Workflows with Cascading,['Paco Nathan'],O'Reilly Media,July 2013
+Multimedia Programming with Pure Data,['Bryan WC Chung'],Packt Publishing,July 2013
+Windows Azure Data Storage,['Bruce Johnson'],Wiley / Wrox,July 2013
+Learning SPARQL,['Bob DuCharme'],O'Reilly Media,July 2013
+Apache Sqoop Cookbook,"['Kathleen Ting', 'Jarek Jarcec Cecho']",O'Reilly Media,July 2013
+Excel Data Analysis,['Paul McFedries'],Wiley / Visual,July 2013
+High Performance Deformable Image Registration Algorithms for Manycore ...,"['James Shackleford', 'Nagarajan Kandasamy', 'Gregory Sharp']",Elsevier / Morgan Kaufmann,June 2013
+Programming Drupal 7 Entities,['Sammy Spets'],Packt Publishing,June 2013
+Microsoft Dynamics CRM 2011 Reporting,['Damian Sinay'],Packt Publishing,June 2013
+Oracle Data Guard 11gR2 Administration Beginner's Guide,"['Emre Baransel', 'Nassyam Basha']",Packt Publishing,June 2013
+Instant Heat Maps in R How-to,['Sebastian Raschka'],Packt Publishing,June 2013
+QlikView for Developers Cookbook,['Stephen Redmond'],Packt Publishing,June 2013
+Microsoft System Center Data Protection Manager 2012 SP1,"['Steve Buchannan', 'Islam Gomaa', 'Robert Hedblom', 'Flemming Riis']",Packt Publishing,June 2013
+Instant Weka How-to,['Bostjan Kaluza'],Packt Publishing,June 2013
+Java Persistence with MyBatis 3,['K. Siva Prasad Reddy'],Packt Publishing,June 2013
+Getting Started With Amazon Redshift,['Stefan Bauer'],Packt Publishing,June 2013
+Analyzing the Analyzers,"['Harlan Harris', 'Sean Murphy', 'Marck Vaisman']",O'Reilly Media,June 2013
+Graph Databases,"['Ian Robinson', 'Jim Webber', 'Emil Eifrem']",O'Reilly Media,June 2013
+SignalR: Real-time Application Development,['Einar Ingebrigtsen'],Packt Publishing,June 2013
+Instant Apache Solr for Indexing Data How-to,['Alexandre Rafalovitch'],Packt Publishing,June 2013
+CCNA Data Center - Introducing Cisco Data Center Networking Study Guide,"['Todd Lammle', 'John Swartz']",Wiley / Sybex,June 2013
+Instant Apache Hive Essentials How-to,['Darren Lee'],Packt Publishing,June 2013
+Python Geospatial Development,['Erik Westra'],Packt Publishing,May 2013
+Instant Data Intensive Apps with Pandas How-to,['Trent Hauck'],Packt Publishing,May 2013
+Instant Interactive Map Designs with Leaflet JavaScript Library How-to,['Jonathan Derrough'],Packt Publishing,May 2013
+Instant MapReduce Patterns - Hadoop Essentials How-to,['Srinath Perera'],Packt Publishing,May 2013
+IBM Cognos 10 Framework Manager,['Terry Curran'],Packt Publishing,May 2013
+Principles of Big Data,['Jules J Berman'],Elsevier / Morgan Kaufmann,May 2013
+Oracle Data Integrator 11g Cookbook,"['Christophe Dupupet', 'Peter C. Boyd-Bowman', 'Denis Gray', 'Julien Testut']",Packt Publishing,May 2013
+Data-Warehouse-Systeme,"['Andreas Bauer', 'Holger Günzel']",dpunkt,May 2013
+MongoDB: The Definitive Guide,['Kristina Chodorow'],O'Reilly Media,May 2013
+IBM Cognos Business Intelligence,['Dustin Adkison'],Packt Publishing,May 2013
+Disruptive Possibilities: How Big Data Changes Everything,['Jeffrey Needham'],O'Reilly Media,May 2013
+Excel Dashboards and Reports,"['Michael Alexander', 'John Walkenbach']",Wiley,May 2013
+Data Warehousing in the Age of Big Data,['Krish Krishnan'],Elsevier / Morgan Kaufmann,May 2013
+Understanding and Using C Pointers,['Richard M Reese'],O'Reilly Media,May 2013
+Simple Steps to Data Encryption,['Peter Loshin'],Elsevier / Syngress,April 2013
+Learning IPython for Interactive Computing and Data Visualization,['Cyrille Rossant'],Packt Publishing,April 2013
+Instant Traffic Analysis with Tshark How-to,['Borja Merino'],Packt Publishing,April 2013
+The Case for the Chief Data Officer,"['Peter Aiken', 'Michael M. Gorman']",Elsevier / Morgan Kaufmann,April 2013
+Simulating Data with SAS,['Rick Wicklin'],SAS Institute,April 2013
+PHP Web Services,['Lorna Jane Mitchell'],O'Reilly Media,April 2013
+JMP for Basic Univariate and Multivariate Statistics,"['Ann W. Lehman', ""Norm O'Rourke Ph.D."", 'R.Psych.', 'Larry Hatcher Ph.D.', 'Edward J. ...']",SAS Institute,April 2013
+Instant Creating Data Models with PowerPivot How-to,['Leo Taehyung Lee'],Packt Publishing,April 2013
+Data Warehousing mit SAP® BW 7.3,['Christian Mehrwald'],dpunkt,April 2013
+Google Visualization API Essentials,['Traci L. Ruthkoski'],Packt Publishing,April 2013
+Access 2013: The Missing Manual,['Matthew MacDonald'],O'Reilly Media,April 2013
+Hands-On Oracle Application Express Security,['Recx'],Wiley,April 2013
+Access 2013 Bible,"['Michael Alexander', 'Richard Kusleika']",Wiley,April 2013
+Instant PostgreSQL Backup and Restore How-to,['Shaun M. Thomas'],Packt Publishing,March 2013
+Hibernate Search by Example,['Steve Perkins'],Packt Publishing,March 2013
+Instant Liferay Portal 6 Starter,['Sandeep Nair'],Packt Publishing,March 2013
+Instant Cytoscape Complex Network Analysis How-to,['Gang Su'],Packt Publishing,March 2013
+Building Dashboards with Microsoft Dynamics GP 2013 and Excel 2013,['Mark Polino'],Packt Publishing,March 2013
+Big Data For Dummies,"['Judith Hurwitz', 'Alan Nugent', 'Fern Halper', 'Marcia Kaufman']",Wiley / For Dummies,March 2013
+Clojure Data Analysis Cookbook,['Eric Rochester'],Packt Publishing,March 2013
+Instant Apache Cassandra for Developers Starter,['Vivek Mishra'],Packt Publishing,March 2013
+Managing Multimedia and Unstructured Data in the Oracle Database,['Marcelle Kratochvil'],Packt Publishing,March 2013
+Access 2013 All-in-One For Dummies,"['Alison Barrows', 'Joseph C. Stockman', 'Allen G. Taylor']",Wiley / For Dummies,March 2013
+Teach Yourself VISUALLY Access 2013,['Paul McFedries'],Wiley / Visual,March 2013
+Interactive Data Visualization for the Web,['Scott Murray'],O'Reilly Media,March 2013
+Access 2013 For Dummies,"['Laurie Ulrich Fuller', 'Ken Cook']",Wiley / For Dummies,March 2013
+Lean Analytics,"['Alistair Croll', 'Benjamin Yoskovitz']",O'Reilly Media,March 2013
+Data Points,['Nathan Yau'],Wiley,March 2013
+Distributed Network Data,"['Alasdair Allan', 'Kipp Bradford']",O'Reilly Media,February 2013
+Managing Data in Motion,['April Reeve'],Elsevier / Morgan Kaufmann,February 2013
+Enterprise Security: A Data-Centric Approach to Securing the Enterprise,['Aaron Woody'],Packt Publishing,February 2013
+Learning SciPy for Numerical and Scientific Computing,['Francisco J. Blanco-Silva'],Packt Publishing,February 2013
+Hadoop Beginner's Guide,['Garry Turkington'],Packt Publishing,February 2013
+Excel 2013 Simplified,['Paul McFedries'],Wiley / Visual,February 2013
+GeoServer Beginner's Guide,"['Brian Youngblood', 'Stefano Iacovella']",Packt Publishing,February 2013
+Analyzing the Social Web,['Jennifer Golbeck'],Elsevier / Morgan Kaufmann,February 2013
+Predictive Analytics,['Eric Siegel'],Wiley,February 2013
+Hadoop MapReduce Cookbook,"['Srinath Perera', 'Thilina Gunarathne']",Packt Publishing,January 2013
+Instant Netcat Starter,['K. C. Yerrid'],Packt Publishing,January 2013
+Implementing Splunk: Big Data Reporting and Development for Operational ...,['Vincent Bumgarner'],Packt Publishing,January 2013
+The Definitive ANTLR 4 Reference,['Terence Parr'],Pragmatic Bookshelf,January 2013
+Measuring Data Quality for Ongoing Improvement,['Laura Sebastian-Coleman'],Elsevier / Morgan Kaufmann,December 2012
+Data Hiding,"['Michael T. Raggo', 'Chet Hosmer']",Elsevier / Syngress,December 2012
+Agile Data Warehousing Project Management,['Ralph Hughes'],Elsevier / Morgan Kaufmann,December 2012
+Data Visualization: a successful design process,['Andy Kirk'],Packt Publishing,December 2012
+AfterShot Pro: Non-destructive photo editing and management,['Joachim Ziebs'],Packt Publishing,December 2012
+Google Maps JavaScript API Cookbook,"['Alper Dincer', 'Balkan Uraz']",Packt Publishing,December 2012
+Learning RStudio for R Statistical Computing,"['Mark P. J. van der Loo', 'Edwin de Jonge']",Packt Publishing,December 2012
+Implementing CDISC Using SAS,"['Chris Holland', 'Jack Shostak']",SAS Institute,December 2012
+WCF 4.5 Multi-Layer Services Development with Entity Framework,['Mike Liu'],Packt Publishing,December 2012
+Oracle Enterprise Manager Cloud Control 12c: Managing Data Center Chaos,['Porus Homi Havewala'],Packt Publishing,December 2012
+Professional Visual Basic 2012 and .NET 4.5 Programming,"['Bill Sheldon', 'Billy Hollis', 'Rob Windsor', 'David McCarter', 'Gaston C. Hillar', '...']",Wiley / Wrox,December 2012
+Learning Cocoa with Objective-C,"['Paris Buttfield-Addison', 'Jonathon Manning']",O'Reilly Media,December 2012
+R Graphics Cookbook,['Winston Chang'],O'Reilly Media,December 2012
+Data Insights,['Hunter Whitney'],Elsevier / Morgan Kaufmann,November 2012
+Transforming Business,"['Allison Cerra', 'Kevin Easterwood', 'Jerry Power']",Wiley,November 2012
+Circos Data Visualization How-to,['Tom Schenk'],Packt Publishing,November 2012
+HTML5 Graphing and Data Visualization Cookbook,['Ben Fhala'],Packt Publishing,November 2012
+MATLAB Graphics and Data Visualization Cookbook,"['Nivedita Majumdar', 'Swapnonil Banerjee']",Packt Publishing,November 2012
+KnockoutJS Starter,['Eric M. Barnard'],Packt Publishing,November 2012
+Manage Partitions with GParted How-to,['Curtis Gedak'],Packt Publishing,November 2012
+Network Backup with Bacula How-To,['Eugene Pankov'],Packt Publishing,November 2012
+SAP HANA Starter,['Mark Walker'],Packt Publishing,November 2012
+ActionScript Graphing Cookbook,"['Peter Backx', 'Dominic Gelineau']",Packt Publishing,November 2012
+Atmospheric Monitoring with Arduino,"['Patrick Di Justo', 'Emily Gertz']","Maker Media, Inc",November 2012
+Bad Data Handbook,['Q. Ethan McCallum'],O'Reilly Media,November 2012
+Data Governance,['John Ladley'],Elsevier / Morgan Kaufmann,November 2012
+Getting Started with Talend Open Studio for Data Integration,['Jonathan Bowen'],Packt Publishing,November 2012
+Spring Data,['Petri Kainulainen'],Packt Publishing,November 2012
+Oracle 11g Anti-hacker's Cookbook,['Adrian Neagu'],Packt Publishing,October 2012
+Information Security Risk Assessment Toolkit,"['Mark Talabis', 'Jason Martin']",Elsevier / Syngress,October 2012
+Spring Data,"['Mark Pollack', 'Oliver Gierke', 'Thomas Risberg', 'Jon Brisbin', 'Michael Hunger']",O'Reilly Media,October 2012
+Python for Data Analysis,['Wes McKinney'],O'Reilly Media,October 2012
+Piwik Web Analytics Essentials,['Stephan A. Miller'],Packt Publishing,October 2012
+Measuring the Networked Nonprofit,"['Beth Kanter', 'Katie Delahaye Paine']",Wiley / Jossey-Bass,October 2012
+Introduction to Data Compression,['Khalid Sayood'],Elsevier / Morgan Kaufmann,October 2012
+Arista Warrior,['Gary A. Donahue'],O'Reilly Media,October 2012
+R in a Nutshell,['Joseph Adler'],O'Reilly Media,September 2012
+Programming Hive,"['Edward Capriolo', 'Dean Wampler', 'Jason Rutherglen']",O'Reilly Media,September 2012
+SAS Hash Object Programming Made Easy,['Michele M. Burlew'],SAS Institute,September 2012
+Ethics of Big Data,['Kord Davis'],O'Reilly Media,September 2012
+Records Management For Dummies,['Richardson'],Wiley / For Dummies,September 2012
+Master Data Management,"['Rolf Scheuch', 'Tom Gansor', 'Colette Ziller']",dpunkt,September 2012
+Stammdatenmanagement,"['Knut Hildebrand', 'Boris Otto', 'Anette Weisbecker']",dpunkt,September 2012
+PCI Compliance,"['Branden R. Williams', 'Anton Chuvakin']",Elsevier / Syngress,September 2012
+Getting Started with Storm,"['Jonathan Leibiusky', 'Gabriel Eisbruch', 'Dario Simonassi']",O'Reilly Media,August 2012
+OpenLayers Cookbook,['Antonio Santiago Perez'],Packt Publishing,August 2012
+Ext JS 4 Web Application Development Cookbook,"['Andrew Duncan', 'Stuart Ashworth']",Packt Publishing,August 2012
+HBase Administration Cookbook,['Yifeng Jiang'],Packt Publishing,August 2012
+Infinispan Data Grid Platform,"['Francesco Marchioni', 'Manik Surtani']",Packt Publishing,August 2012
+"Learning PHP, MySQL, JavaScript, and CSS",['Robin Nixon'],O'Reilly Media,August 2012
+Think Python,['Allen B. Downey'],O'Reilly Media,August 2012
+Applied Data Mining for Forecasting Using SAS,"['Tim Rey', 'Arthur Kordon', 'Chip Wells']",SAS Institute,July 2012
+"Categorical Data Analysis Using SAS, Third Edition","['Maura E. Stokes', 'Charles S. Davis', 'Gary G. Koch']",SAS Institute,July 2012
+iOS Cloud Development For Dummies,['Neal Goldstein'],Wiley / For Dummies,July 2012
+Data Virtualization for Business Intelligence Systems,['Rick van der Lans'],Elsevier / Morgan Kaufmann,July 2012
+OData Programming Cookbook for .NET Developers,['Steven Cheng'],Packt Publishing,July 2012
+FileMaker Pro 12: The Missing Manual,"['Susan Prosser', 'Stuart Gripman']",O'Reilly Media,July 2012
+Oracle Business Intelligence Enterprise Edition 11g: A Hands-On Tutorial,"['Christian Screen', 'Haroun Khan', 'Adrian Ward']",Packt Publishing,July 2012
+Business Intelligence Cookbook: A Project Lifecycle Approach Using Oracle ...,['John Heaton'],Packt Publishing,July 2012
+Securing SQL Server,['Denny Cherry'],Elsevier / Syngress,July 2012
+The Data Journalism Handbook,"['Jonathan Gray', 'Lucy Chambers', 'Liliana Bounegru']",O'Reilly Media,July 2012
+Getting Started with D3,['Mike Dewar'],O'Reilly Media,June 2012
+Principles of Data Integration,"['AnHai Doan', 'Alon Halevy', 'Zachary Ives']",Elsevier / Morgan Kaufmann,June 2012
+VMware View 5 Desktop Virtualization Solutions,"['Jason Langone', 'Andre Leibovici']",Packt Publishing,June 2012
+Just Spring Data Access,"['Madhusudhan Konda', 'Greg L. Turnquist']",O'Reilly Media,June 2012
+Getting Started with Couchbase Server,['MC Brown'],O'Reilly Media,June 2012
+Android Database Programming,['Jason Wei'],Packt Publishing,June 2012
+Getting Started with Oracle Data Integrator 11g: A Hands-On Tutorial,"['David Hecksel', 'Bernard Wheeler', 'Peter C. Boyd-Bowman', 'Julien Testut', 'Denis ...']",Packt Publishing,May 2012
+Microsoft SQL Server 2012 Integration Services: An Expert Cookbook,"['Reza Rad', 'Pedro Perfeito']",Packt Publishing,May 2012
+Information Visualization,['Colin Ware'],Elsevier / Morgan Kaufmann,May 2012
+Java 7 JAX-WS Web Services,['Deepak Vohra'],Packt Publishing,May 2012
+SAS Encoding:,['Manfred Kiefer'],SAS Institute,May 2012
+Seven Databases in Seven Weeks,"['Eric Redmond', 'Jim Wilson']",Pragmatic Bookshelf,May 2012
+Hadoop: The Definitive Guide,['Tom White'],O'Reilly Media / Yahoo Press,May 2012
+Information Storage and Management,['EMC Education Services'],Wiley,April 2012
+Hybrid Cloud For Dummies,"['Judith Hurwitz', 'Marcia Kaufman', 'Fern Halper', 'Daniel Kirsch']",Wiley / For Dummies,April 2012
+Fundamentals of Predictive Analytics with JMP,"['Ron Klimberg', 'B. D. McCullough']",SAS Institute,April 2012
+Microsoft Silverlight 5 Data and Services Cookbook,"['Gill Cleeren', 'Kevin Dockx']",Packt Publishing,April 2012
+Securing the Virtual Environment,"['Davi Ottenheimer', 'Matthew Wallace']",Wiley,April 2012
+JMP Start Statistics,"['John Sall', 'Ann W. Lehman', 'Mia L. Stephens', 'Lee Creighton']",SAS Institute,March 2012
+Entity Framework 4.1: Expert's Cookbook,"['Devlin Liles', 'Tim Rayburn']",Packt Publishing,March 2012
+Designing Great Data Products,"['Jeremy Howard', 'Margit Zwemer', 'Mike Loukides']",O'Reilly Media,March 2012
+Enabling Programmable Self with HealthVault,['Vaibhav Bhandari'],O'Reilly Media,March 2012
+"Webbots, Spiders, and Screen Scrapers",['Michael Schrenk'],No Starch Press,March 2012
+Managing Data and Media in Microsoft Silverlight 4: A mashup of chapters from...,"['Gaston C. Hillar', 'Gill Cleeren', 'Kevin Dockx', 'Todd Snyder', 'Joel Eden', 'Jeffrey ...']",Packt Publishing,February 2012
+Getting Started with Fluidinfo,"['Nicholas J. Radcliffe', 'Nicholas H. Tollervey']",O'Reilly Media,February 2012
+Think Complexity,['Allen B. Downey'],O'Reilly Media,February 2012
+Programming Entity Framework: DbContext,"['Julia Lerman', 'Rowan Miller']",O'Reilly Media,February 2012
+Data for the Public Good,['Alex Howard'],O'Reilly Media,February 2012
+Making Musical Apps,['Peter Brinkmann'],O'Reilly Media,February 2012
+Machine Learning for Hackers,"['Drew Conway', 'John Myles White']",O'Reilly Media,February 2012
+Accessible EPUB 3,['Matt Garrish'],O'Reilly Media / Tools of Change,February 2012
+MySQL Troubleshooting,['Sveta Smirnova'],O'Reilly Media,February 2012
+Getting Started with CouchDB,['MC Brown'],O'Reilly Media,January 2012
+C# Database Basics,['Michael Schmalz'],O'Reilly Media,January 2012
+Environmental Monitoring with Arduino,"['Emily Gertz', 'Patrick Di Justo']","Maker Media, Inc",January 2012
+Building Business Intelligence Using SAS,"['Tricia Aanderud', 'Angela Hall']",SAS Institute,January 2012
+MongoDB and PHP,['Steve Francia'],O'Reilly Media,January 2012
+Microsoft Dynamics CRM 2011: Dashboards Cookbook,['Mark AuCoin'],Packt Publishing,January 2012
+Hacking and Securing iOS Applications,['Jonathan Zdziarski'],O'Reilly Media,January 2012
+Mapping with Drupal,"['Alan Palazzolo', 'Thomas Turnbull']",O'Reilly Media,December 2011
+iOS Development using MonoTouch Cookbook,['Dimitris Tavlikos'],Packt Publishing,December 2011
+Excel 2010 eLearning Kit For Dummies,['Faithe Wempen'],Wiley / For Dummies,November 2011
+Teaching Elementary Statistics with JMP,['Chris Olsen'],SAS Institute,November 2011
+Programming Entity Framework: Code First,"['Julia Lerman', 'Rowan Miller']",O'Reilly Media,November 2011
+Windows Phone 7.5 Data Cookbook,['Ramesh Thalli'],Packt Publishing,October 2011
+Machine Learning for Email,"['Drew Conway', 'John Myles White']",O'Reilly Media,October 2011
+Parallel R,"['Q. Ethan McCallum', 'Stephen Weston']",O'Reilly Media,October 2011
+Programming Pig,['Alan Gates'],O'Reilly Media,September 2011
+Social Network Analysis for Startups,"['Maksim Tsvetovat', 'Alexander Kouznetsov']",O'Reilly Media,September 2011
+SAP NetWeaver MDM 7.1 Administrator's Guide,['Uday Rao'],Packt Publishing,September 2011
+Designing Data Visualizations,"['Noah Iliinsky', 'Julie Steele']",O'Reilly Media,September 2011
+Privacy and Big Data,"['Terence Craig', 'Mary E. Ludloff']",O'Reilly Media,September 2011
+The Evolution of Data Products,['Mike Loukides'],O'Reilly Media / Radar,September 2011
+Big Data Glossary,['Pete Warden'],O'Reilly Media,September 2011
+"Oracle Information Integration, Migration, and Consolidation","['Tom Laszewski', 'Jason Williamson', 'Prakash Nauduri']",Packt Publishing,September 2011
+Programming Razor,['Jess Chadwick'],O'Reilly Media,September 2011
+FreeRADIUS,['Dirk van der Walt'],Packt Publishing,September 2011
+Big Data Now: Current Perspectives from O'Reilly Radar,"[""O'Reilly Radar Team""]",O'Reilly Media,August 2011
+HBase: The Definitive Guide,['Lars George'],O'Reilly Media,August 2011
+Professional NoSQL,['Shashank Tiwari'],Wiley / Wrox,August 2011
+MDX with Microsoft SQL Server 2008 R2 Analysis Services Cookbook,['Tomislav Piasevoli'],Packt Publishing,August 2011
+Microsoft Windows Azure Development Cookbook,['Neil Mackenzie'],Packt Publishing,August 2011
+Redis Cookbook,"['Tiago Macedo', 'Fred Oliveira']",O'Reilly Media,July 2011
+iPhone and iOS Forensics,"['Andrew Hoog', 'Katie Strzempka']",Elsevier / Syngress,July 2011
+"Getting Started with GEO, CouchDB, and Node.js",['Mick Thompson'],O'Reilly Media,July 2011
+Using the HTML5 Filesystem API,['Eric Bidelman'],O'Reilly Media,July 2011
+Functional Programming for Java Developers,['Dean Wampler'],O'Reilly Media,July 2011
+Professional ASP.NET MVC 3,"['Jon Galloway', 'Phil Haack', 'Brad Wilson', 'K. Scott Allen']",Wiley / Wrox,July 2011
+Microsoft SQL Server 2008 R2 Master Data Services,"['Jeremy Kashel', 'Tim Kent', 'Martyn Bullerwell']",Packt Publishing,July 2011
+Cassandra High Performance Cookbook,['Edward Capriolo'],Packt Publishing,July 2011
+Think Stats,['Allen B. Downey'],O'Reilly Media,July 2011
+Office 365 in Business,"['David Kroenke', 'Donald Nilson']",Wiley,June 2011
+Pentaho Data Integration 4 Cookbook,"['Adrian Sergio Pulvirenti', 'Maria Carina Roldan']",Packt Publishing,June 2011
+GNU Octave,['Jesper Schmidt Hansen'],Packt Publishing,June 2011
+Visualize This,['Nathan Yau'],Wiley,June 2011
+WordPress 3 Ultimate Security,['Olly Connelly'],Packt Publishing,June 2011
+Data Mining: Concepts and Techniques,"['Jiawei Han', 'Jian Pei', 'Micheline Kamber']",Elsevier / Morgan Kaufmann,June 2011
+Packet Guide to Core Network Protocols,['Bruce Hartpence'],O'Reilly Media,June 2011
+Microsoft SQL Server 2008 R2 Administration Cookbook,['Satya Shyam K Jayanty'],Packt Publishing,May 2011
+Mastering SQL Queries for SAP Business One,['Gordon Du'],Packt Publishing,May 2011
+Microsoft Data Protection Manager 2010,['Steve Buchanan'],Packt Publishing,May 2011
+Oracle 10g/11g Data and Database Management Utilities: LITE,['Hector R. Madrid'],Packt Publishing,May 2011
+Microsoft Silverlight 4 Data and Services Cookbook: LITE,"['Gill Cleeren', 'Kevin Dockx']",Packt Publishing,May 2011
+Processing XML documents with Oracle JDeveloper 11g: LITE,['Deepak Vohra'],Packt Publishing,May 2011
+JSF 2.0 Cookbook: LITE,['Anghel Leonard'],Packt Publishing,May 2011
+Oracle Warehouse Builder 11g R2: Getting Started 2011,['Bob Griesemer'],Packt Publishing,May 2011
+Data Architecture,['Charles Tupper'],Elsevier / Morgan Kaufmann,May 2011
+iPad 2 Fully Loaded,['Alan Hess'],Wiley,May 2011
+Core Data iOS Essentials,['B. M. Harwani'],Packt Publishing,April 2011
+Microsoft Dynamics GP 2010 Reporting,"['Christopher Liley', 'David Duncan']",Packt Publishing,April 2011
+Alternate Data Storage Forensics,"['Amber Schroader', 'Tyler Cohen']",Elsevier / Syngress,April 2011
+Managing Catastrophic Loss of Sensitive Data,['Constantine Photopoulos'],Elsevier / Syngress,April 2011
+PCI Compliance,"['Branden R. Williams', 'Anton Chuvakin', 'Tony Bradley']",Elsevier / Syngress,April 2011
+RFID+ Study Guide and Practice Exams,['Paul Sanghera Ph.D'],Elsevier / Syngress,April 2011
+XSS Attacks,"['Seth Fogie', 'Jeremiah Grossman', 'Robert Hansen', 'Anton Rager', 'Petko D. Petkov']",Elsevier / Syngress,April 2011
+The Best Damn Cybercrime and Digital Forensics Book Period,"['Jack Wiles', 'Anthony Reyes']",Elsevier / Syngress,April 2011
+How to Cheat at Deploying and Securing RFID,"['Frank Thornton', 'Paul Sanghera Ph.D']",Elsevier / Syngress,April 2011
+GFI Network Security and PCI Compliance Power Tools,['Brien Posey'],Elsevier / Syngress,April 2011
+Next Generation SSH2 Implementation,['Dale Liu'],Elsevier / Syngress,April 2011
+ZigBee Wireless Networks and Transceivers,['Shahin Farahani'],Elsevier / Newnes,April 2011
+Querying XML,"['Jim Melton', 'Stephen Buxton']",Elsevier / Morgan Kaufmann,April 2011
+Market Data Explained,['Marc Alvarez'],Elsevier / Butterworth-Heinemann,April 2011
+Wi-Fi Telephony,"['Praphul Chandra', 'David Lide']",Elsevier / Newnes,April 2011
+Data Mining Techniques,"['Gordon S. Linoff', 'Michael J. Berry']",Wiley,March 2011
+The Data Model Resource Book,"['Len Silverston', 'Paul Agnew']",Wiley,March 2011
+Sphinx Search,['Abbas Ali'],Packt Publishing,March 2011
+Cacti 0.8 Beginner's Guide,['Thomas Urban'],Packt Publishing,March 2011
+Bulletproof Wireless Security,['Praphul Chandra'],Elsevier / Newnes,March 2011
+ADempiere 3.6 Cookbook,['Ajit Kumar'],Packt Publishing,March 2011
+Barnes & Noble,['Marc Parrish'],O'Reilly Media,March 2011
+"Big Data, Lean Startup",['Philip (flip) Kromer'],O'Reilly Media,March 2011
+Generating Dynamic Social Networks from Large Scale Unstructured Data,['Tim Estes'],O'Reilly Media,March 2011
+With Big Data Comes Big Responsibility,['John Fritz'],O'Reilly Media,March 2011
+Prototyping With Data,['Matt Biddulph'],O'Reilly Media,March 2011
+Small is the New Big,['Kim Rees'],O'Reilly Media,March 2011
+Learning Android,['Marko Gargenta'],O'Reilly Media,March 2011
+Meaningful Insights from Raw Metrics,"['Nicholas Yee', 'Nic Ducheneaut']",O'Reilly Media,March 2011
+What Kind of Data do Government Agencies Have?,['Virginia Carlson'],O'Reilly Media,March 2011
+The Data-driven Business and Other Lessons from History,['Barry Devlin'],O'Reilly Media,March 2011
+Building the Data-driven Organization,['Bob Page'],O'Reilly Media,March 2011
+Retail: Lessons Learned from the First Data-driven Business and Future ...,"['Marilyn Craig', 'Terence Craig']",O'Reilly Media,March 2011
+Crowdsourcing and the Democratization of Data,['Lukas Biewald'],O'Reilly Media,March 2011
+Making Data Science a Sport,['Anthony Goldbloom'],O'Reilly Media,March 2011
+Extracting Business Value from Semi-Structured Data,['David Steier'],O'Reilly Media,March 2011
+Real-Time Searching of Big Data with Solr and Hadoop,['Rod Cope'],O'Reilly Media,March 2011
+Where's the Money in Big Data,"['Tim Guleri', 'Roger Ehrenberg', 'Paul Kedrosky', 'Ping Li']",O'Reilly Media,March 2011
+Mining the Tar Sands of Big Data,['Michael E. Driscoll'],O'Reilly Media,March 2011
+"Dirty Politics, Dirty Data",['Jonathan Bruner'],O'Reilly Media,March 2011
+Determine the Right Analytic Database,['Mark Madsen'],O'Reilly Media,March 2011
+Painless Scaling,['Ben Werther'],O'Reilly Media,March 2011
+Real World Applications Panel: Enterprise and Industry,"['Kenneth Cukier', 'Adam Hurwitz', 'Jinesh Varia', 'Fabiano Oliveira']",O'Reilly Media,March 2011
+Research Evaluation in the Age of Global Digital Scholarship,['Brian Wilson'],O'Reilly Media,March 2011
+Data Mashups in R,"['Jeremy Leipzig', 'Xiao-Yi Li']",O'Reilly Media,March 2011
+R Cookbook,['Paul Teetor'],O'Reilly Media,March 2011
+Open Data,['Pablo Castro'],O'Reilly Media,March 2011
+Deriving Intelligence from Large Data Using Hadoop and Applying Analytics,['Vineet Tyagi'],O'Reilly Media,March 2011
+Data Marketplaces,"['Julie Steele', 'Ian White', 'Peter Marney', 'Moe Khosravy', 'Dennis Yang']",O'Reilly Media,March 2011
+Building and Pricing the Open Data Marketplace,"['Pete Soderling', 'Pete Forde']",O'Reilly Media,March 2011
+"Visualizing Shared, Distributed Data","['Roman Stanek', 'Pete Warden']",O'Reilly Media,March 2011
+Google Cloud for Data Crunchers,"['Patrick Chanezon', 'Ryan Boyd']",O'Reilly Media,March 2011
+Avro Data,['Doug Cutting'],O'Reilly Media,March 2011
+Supersized Data? Get Real-time insights,"['Stephen Sorkin', 'Narayan Bharadwaj']",O'Reilly Media,March 2011
+Distilling Data Exhaust,['Peter Skomoroch'],O'Reilly Media,March 2011
+An In-Depth Look at How to Survive the Data Deluge,['Ed Boyajian'],O'Reilly Media,March 2011
+New Developments in Large Data Techniques,['Joseph Turian'],O'Reilly Media,March 2011
+Social Media Analytics Using Greenplum's Data Computing Appliance,['Johan Schleier-Smith'],O'Reilly Media,March 2011
+Unleashing Twitter Data for Fun and Insight,['Matthew A. Russell'],O'Reilly Media,March 2011
+Scaling Data Analysis with Apache Mahout,['Isabel Drost'],O'Reilly Media,March 2011
+Data as Art,['J.J. Toothman'],O'Reilly Media,March 2011
+Telling Great Data Stories Online,['Jock Mackinlay'],O'Reilly Media,March 2011
+Data in the Cloud with OpenStack,['Eric Day'],O'Reilly Media,March 2011
+Wolfram|Alpha,['Joshua Martell'],O'Reilly Media,March 2011
+What's Mine is Yours,"['Dylan Field', 'Nolan Goldberg', 'Brian W. Fitzpatrick', 'Jud Valeski', ""Tim O'Reilly""]",O'Reilly Media,March 2011
+Microsoft DataMarket,"['Sudhir Hasbe', 'Bruno Aziza']",O'Reilly Media,March 2011
+MAD Skills,"['Brian Dolan', 'Joseph M. Hellerstein']",O'Reilly Media,March 2011
+Designing for Infinity,['Dustin Kirk'],O'Reilly Media,March 2011
+Present Tense,['Benjamin Black'],O'Reilly Media,March 2011
+Esperwhispering,['Theo Schlossnagle'],O'Reilly Media,March 2011
+AnySurface,['Stephen Guerin'],O'Reilly Media,March 2011
+Predicting the Future,"['Drew Conway', 'Christopher Ahlberg', 'Robert McGrew', 'Rion Snow']",O'Reilly Media,February 2011
+Beyond Visualization,['Creve Maples'],O'Reilly Media,February 2011
+How to Develop Big Data Applications for Hadoop,"['Abe Taha', 'Shevek M', 'Ken Krugler', 'Chris Wensel']",O'Reilly Media,February 2011
+MDDL and the Quest for a Market Data Standard,['Martin Christopher Sexton'],Elsevier / Butterworth-Heinemann,February 2011
+Oracle GoldenGate 11g Implementer's guide,['John P Jeffries'],Packt Publishing,February 2011
+Data Mining,"['Ian H. Witten', 'Eibe Frank', 'Mark A. Hall', 'Christopher Pal']",Elsevier / Morgan Kaufmann,February 2011
+Developing High Quality Data Models,['Matthew West'],Elsevier / Morgan Kaufmann,February 2011
+Data Mining: Practical Machine Learning Tools and Techniques,"['Ian H. Witten', 'Eibe Frank', 'Mark A. Hall']",Elsevier / Morgan Kaufmann,February 2011
+21 Recipes for Mining Twitter,['Matthew A. Russell'],O'Reilly Media,January 2011
+Scaling MongoDB,['Kristina Chodorow'],O'Reilly Media,January 2011
+Data Source Handbook,['Pete Warden'],O'Reilly Media,January 2011
+Writing and Querying MapReduce Views in CouchDB,['Bradley Holt'],O'Reilly Media,January 2011
+Matthew Russell on Mining the Social Web,['Matthew A. Russell'],O'Reilly Media,January 2011
+Microsoft SQL Server 2008 High Availability,['Hemantgiri S. Goswami'],Packt Publishing,January 2011
+Mining the Social Web,['Matthew A. Russell'],O'Reilly Media,January 2011
+R Graphs Cookbook,['Hrishi V. Mittal'],Packt Publishing,January 2011
+Python 2.6 Text Processing Beginner's Guide,['Jeff McNeil'],Packt Publishing,December 2010
+Microsoft SQL Azure: Enterprise Application Development,['Jayaram Krishnaswamy'],Packt Publishing,December 2010
+The Disaster Recovery Handbook,"['Michael WALLACE', 'Lawrence WEBBER']",AMACOM,December 2010
+The Practitioner's Guide to Data Quality Improvement,['David Loshin'],Elsevier / Morgan Kaufmann,November 2010
+Introduction to ASP.NET 4 AJAX Client Templates,['Craig Shoemaker'],Wiley / Wrox,November 2010
+Real World Instrumentation with Python,['J. M. Hughes'],O'Reilly Media,November 2010
+Cassandra: The Definitive Guide,['Eben Hewitt'],O'Reilly Media,November 2010
+Data Analysis with Open Source Tools,['Philipp K. Janert'],O'Reilly Media,November 2010
+Statistical Analysis with R,['John M. Quick'],Packt Publishing,October 2010
+Statistical Programming with SAS/IML Software,['Rick Wicklin'],SAS Institute,October 2010
+Oracle Business Intelligence : The Condensed Guide to Analysis and Reporting,['Yuli Vasiliev'],Packt Publishing,October 2010
+NHibernate 3.0 Cookbook,['Jason Dentler'],Packt Publishing,October 2010
+Pentaho Solutions,"['Roland Bouman', 'Jos van Dongen']",Wiley,September 2010
+Infectious Diseases of Bhutan 2010 edition,"['Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Infectious Diseases of Canada 2010 edition,"['Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Infectious Diseases of Indonesia 2010 edition,"['Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Infectious Diseases of Japan 2010 edition,"['Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Infectious Diseases of Luxembourg 2010 edition,"['Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Infectious Diseases of New Zealand 2010 edition,"['Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Infectious Diseases of Papua New Guinea 2010 edition,"['Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Infectious Diseases of the Philippines 2010 edition,"['Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Infectious Diseases of South Korea 2010 edition,"['Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Infectious Diseases of Saudi Arabia 2010 edition,"['Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Old-World Spotted Fevers: Global Status 2010 edition,"['Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Less-Common Nematodes: Global Status 2010 edition,"['Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Echinococcosis: Global Status 2010 edition,"['Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Viral Gastroenteritis: Global Status 2010 edition,"['Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Giardiasis: Global Status 2010 edition,"['Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Hepatitis B: Global Status 2010 edition,"['Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Japanese Encephalitis: Global Status 2010 edition,"['Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Lassa fever: Global Status 2010 edition,"['Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Leprosy: Global Status 2010 edition,"['Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Malaria: Global Status 2010 edition,"['Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Monkeypox: Global Status 2010 edition,"['Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Plague: Global Status 2010 edition,"['Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Onchocerciasis: Global Status 2010 edition,"['Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Rotavirus: Global Status 2010 edition,"['Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Rubella: Global Status 2010 edition,"['Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Schistosoma Haematobium: Global Status 2010 edition,"['Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Toxoplasmosis: Global Status 2010 edition,"['Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Yellow fever: Global Status 2010 edition,"['Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Infectious Diseases of the World 2010 edition,"['GIDEON Informatics', 'Inc.', 'Dr. Stephen Berger']",Gideon Informatics,September 2010
+Infectious Diseases and Bioterrorism 2010 edition,"['Dr. Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Infectious Diseases of Australia 2010 edition,"['Dr. Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Infectious Diseases of Bosnia and Herzegovina 2010 edition,"['GIDEON Informatics', 'Inc.', 'Dr. Stephen Berger']",Gideon Informatics,September 2010
+Infectious Diseases of Brazil 2010 edition,"['GIDEON Informatics', 'Inc.', 'Dr. Stephen Berger']",Gideon Informatics,September 2010
+Infectious Diseases of Brunei 2010 edition,"['Dr. Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Infectious Diseases of Cuba 2010 edition,"['GIDEON Informatics', 'Inc.', 'Dr. Stephen Berger']",Gideon Informatics,September 2010
+Infectious Diseases of Denmark 2010 edition,"['Dr. Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Infectious Diseases of Hong Kong 2010 edition,"['GIDEON Informatics', 'Inc.', 'Dr. Stephen Berger']",Gideon Informatics,September 2010
+Infectious Diseases of Ethiopia 2010 edition,"['Dr. Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Infectious Diseases of Iceland 2010 edition,"['GIDEON Informatics', 'Inc.', 'Dr. Stephen Berger']",Gideon Informatics,September 2010
+Infectious Diseases of India 2010 edition,"['Dr. Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Infectious Diseases of Iran 2010 edition,"['Dr. Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Infectious Diseases of Ireland and Northern Ireland 2010 edition,"['GIDEON Informatics', 'Inc.', 'Dr. Stephen Berger']",Gideon Informatics,September 2010
+Infectious Diseases of Israel 2010 edition,"['Dr. Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Infectious Diseases of Jordan 2010 edition,"['Dr. Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Infectious Diseases of Latvia 2010 edition,"['Dr. Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Infectious Diseases of Lebanon 2010 edition,"['Dr. Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Infectious Diseases of Madagascar 2010 edition,"['GIDEON Informatics', 'Inc.', 'Dr. Stephen Berger']",Gideon Informatics,September 2010
+Infectious Diseases of Mexico 2010 edition,"['Dr. Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Infectious Diseases of Mongolia 2010 edition,"['Dr. Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Infectious Diseases of the Netherlands 2010 edition,"['GIDEON Informatics', 'Inc.', 'Dr. Stephen Berger']",Gideon Informatics,September 2010
+Infectious Diseases of Nigeria 2010 edition,"['Dr. Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Infectious Diseases of Norway 2010 edition,"['GIDEON Informatics', 'Inc.', 'Dr. Stephen Berger']",Gideon Informatics,September 2010
+Infectious Diseases of Oman 2010 edition,"['Dr. Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Infectious Diseases of Poland 2010 edition,"['Dr. Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Infectious Diseases of Puerto Rico 2010 edition,"['Dr. Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Infectious Diseases of Singapore 2010 edition,"['Dr. Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Infectious Diseases of Taiwan 2010 edition,"['GIDEON Informatics', 'Inc.', 'Dr. Stephen Berger']",Gideon Informatics,September 2010
+Infectious Diseases of South Africa 2010 edition,"['Dr. Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Infectious Diseases of Thailand 2010 edition,"['Dr. Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Infectious Diseases of the United States 2010 edition,"['GIDEON Informatics', 'Inc.', 'Dr. Stephen Berger']",Gideon Informatics,September 2010
+AIDS: Global Status 2010 edition,"['Dr. Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+American Hemorrhagic Fevers: Global Status 2010 edition,"['Dr. Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Angiostrongyliasis: Global Status 2010 edition,"['GIDEON Informatics', 'Inc.', 'Dr. Stephen Berger']",Gideon Informatics,September 2010
+Anthrax: Global Status 2010 edition,"['Dr. Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Miscellaneous Intestinal Diseases: Global Status 2010 edition,"['Dr. Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Australo-Pacific Arboviruses: Global Status 2010 edition,"['GIDEON Informatics', 'Inc.', 'Dr. Stephen Berger']",Gideon Informatics,September 2010
+Miscellaneous Cestodes: Global Status 2010 edition,"['Dr. Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Less-Common Venereal Diseases: Global Status 2010 edition,"['Dr. Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Botulism: Global Status 2010 edition,"['Dr. Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Cryptosporidiosis: Global Status 2010 edition,"['GIDEON Informatics', 'Inc.', 'Dr. Stephen Berger']",Gideon Informatics,September 2010
+Dengue: Global Status 2010 edition,"['Dr. Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Diphtheria: Global Status 2010 edition,"['Dr. Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Dracunculiasis: Global Status 2010 edition,"['GIDEON Informatics', 'Inc.', 'Dr. Stephen Berger']",Gideon Informatics,September 2010
+Equine encephalitis: Global Status 2010 edition,"['Dr. Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Miscellaneous Intestinal Trematodes: Global Status 2010 edition,"['Dr. Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Non-Venereal Treponematoses: Global Status 2010 edition,"['Dr. Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Melioidosis and Glanders: Global Status 2010 edition,"['Dr. Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Gonococcal infection: Global Status 2010 edition,"['Dr. Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Old-World Hantaviruses: Global Status 2010 edition,"['Dr. Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Hantavirus Pulmonary Syndrome: Global Status 2010 edition,"['GIDEON Informatics', 'Inc.', 'Dr. Stephen Berger']",Gideon Informatics,September 2010
+Cutaneous and Mucosal Leishmaniasis: Global Status 2010 edition,"['Dr. Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Legionellosis: Global Status 2010 edition,"['Dr. Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Visceral Leishmaniasis: Global Status 2010 edition,"['Dr. Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Lyme disease: Global Status 2010 edition,"['GIDEON Informatics', 'Inc.', 'Dr. Stephen Berger']",Gideon Informatics,September 2010
+Leptospirosis: Global Status 2010 edition,"['Dr. Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Poliomyelitis: Global Status 2010 edition,"['Dr. Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+"Prototheca, Chlorella, Rhinosporidium and Pythium: Global Status 2010 edition","['GIDEON Informatics', 'Inc.', 'Dr. Stephen Berger']",Gideon Informatics,September 2010
+Rabies: Global Status 2010 edition,"['Dr. Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Miscellaneous Respiratory Viruses: Global Status 2010 edition,"['GIDEON Informatics', 'Inc.', 'Dr. Stephen Berger']",Gideon Informatics,September 2010
+Rift Valley Fever: Global Status 2010 edition,"['GIDEON Informatics', 'Inc.', 'Dr. Stephen Berger']",Gideon Informatics,September 2010
+Salmonellosis: Global Status 2010 edition,"['Dr. Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Smallpox and Vaccinia: Global Status 2010 edition,"['Dr. Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Tetanus: Global Status 2010 edition,"['GIDEON Informatics', 'Inc.', 'Dr. Stephen Berger']",Gideon Informatics,September 2010
+Syphilis: Global Status 2010 edition,"['Dr. Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Tick-borne Encephalitis: Global Status 2010 edition,"['Dr. Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+Trichinosis: Global Status 2010 edition,"['GIDEON Informatics', 'Inc.', 'Dr. Stephen Berger']",Gideon Informatics,September 2010
+Tuberculosis: Global Status 2010 edition,"['GIDEON Informatics', 'Inc.', 'Dr. Stephen Berger']",Gideon Informatics,September 2010
+Typhoid and Enteric Fever: Global Status 2010 edition,"['GIDEON Informatics', 'Inc.', 'Dr. Stephen Berger']",Gideon Informatics,September 2010
+West Nile fever: Global Status 2010 edition,"['Dr. Stephen Berger', 'GIDEON Informatics', 'Inc.']",Gideon Informatics,September 2010
+MongoDB: The Definitive Guide,"['Kristina Chodorow', 'Michael Dirolf']",O'Reilly Media,September 2010
+Apache OfBiz Cookbook,['Ruth Hoffman'],Packt Publishing,September 2010
+Pentaho Kettle Solutions,"['Matt Casters', 'Roland Bouman', 'Jos van Dongen']",Wiley,August 2010
+Managing Time in Relational Databases,"['Tom Johnston', 'Randall Weis']",Elsevier / Morgan Kaufmann,August 2010
+IBM InfoSphere Replication Server and Data Event Publisher,['Pav Kumar-Chatterjee'],Packt Publishing,August 2010
+Programming Entity Framework,['Julia Lerman'],O'Reilly Media,August 2010
+Excel Dashboards and Reports,"['Michael Alexander', 'John Walkenbach']",Wiley,August 2010
+DW 2.0: The Architecture for the Next Generation of Data Warehousing,"['W. H. Inmon', 'Derek Strauss', 'Genia Neushloss']",Elsevier / Morgan Kaufmann,July 2010
+Master Data Management,['David Loshin'],Elsevier / Morgan Kaufmann,July 2010
+Database Archiving,['Jack E. Olson'],Elsevier / Morgan Kaufmann,July 2010
+Wireless Communications & Networking,['Vijay Garg'],Elsevier / Morgan Kaufmann,July 2010
+Business Metadata: Capturing Enterprise Knowledge,"['W. H. Inmon', ""Bonnie O'Neil"", 'Lowell Fryman']",Elsevier / Morgan Kaufmann,July 2010
+Data Preparation for Data Mining Using SAS,['Mamdouh Refaat'],Elsevier / Morgan Kaufmann,July 2010
+The Profit Impact of Business Intelligence,"['Steve Williams', 'Nancy Williams']",Elsevier / Morgan Kaufmann,July 2010
+"Java Data Mining: Strategy, Standard, and Practice","['Mark F. Hornick', 'Erik Marcadé', 'Sunil Venkayala']",Elsevier / Morgan Kaufmann,July 2010
+Fast SOA,['Frank Cohen'],Elsevier / Morgan Kaufmann,July 2010
+Deploying IP and MPLS QoS for Multiservice Networks,"['John William Evans', 'Clarence Filsfils']",Elsevier / Morgan Kaufmann,July 2010
+Digital Modeling of Material Appearance,"['Julie Dorsey', 'Holly Rushmeier', 'François Sillion']",Elsevier / Morgan Kaufmann,July 2010
+Data Model Patterns: A Metadata Map,['David C. Hay'],Elsevier / Morgan Kaufmann,July 2010
+BIRT 2.6 Data Analysis and Reporting,['John Ward'],Packt Publishing,July 2010
+Data Protection for Virtual Data Centers,['Jason Buffington'],Wiley / Sybex,July 2010
+MySQL High Availability,"['Charles Bell', 'Mats Kindahl', 'Lars Thalmann']",O'Reilly Media,June 2010
+Digital Media Processing,['Hazarathaiah Malepati'],Elsevier / Newnes,June 2010
+Web Operations,"['John Allspaw', 'Jesse Robbins']",O'Reilly Media,June 2010
+Excel 2010: The Missing Manual,['Matthew MacDonald'],O'Reilly Media,June 2010
+Access 2010: The Missing Manual,['Matthew MacDonald'],O'Reilly Media,June 2010
+WCF 4.0 Multi-tier Services Development with LINQ to Entities,['Mike Liu'],Packt Publishing,June 2010
+Oracle Application Express 3.2,"['Arie Geller', 'Matthew Lyon']",Packt Publishing,June 2010
+Excel Data Analysis,['Denise Etheridge'],Wiley / Visual,May 2010
+Excel PivotTables and PivotCharts,['Paul McFedries'],Wiley / Visual,May 2010
+NHibernate 2,['Aaron B. Cure'],Packt Publishing,May 2010
+Flex 4 Cookbook,"['Joshua Noble', 'Todd Anderson', 'Garth Braithwaite', 'Marco Casario', 'Rich Tretola']",O'Reilly Media / Adobe Developer Library,May 2010
+.NET Compact Framework 3.5 Data Driven Applications,['Edmund Tan'],Packt Publishing,April 2010
+Office 2010 Just the Steps For Dummies,['Elaine J. Marmel'],Wiley / For Dummies,April 2010
+Microsoft Silverlight 4 Data and Services Cookbook,"['Gill Cleeren', 'Kevin Dockx']",Packt Publishing,April 2010
+Beautiful Visualization,"['Julie Steele', 'Noah Iliinsky']",O'Reilly Media,April 2010
+Pentaho 3.2 Data Integration,['Maria Carina Roldan'],Packt Publishing,April 2010
+Storytelling for User Experience,"['Whitney Quesenbery', 'Kevin Brooks']",Rosenfeld Media,April 2010
+Google Analytics,"['Jerri L. Ledford', 'Joe Teixeira', 'Mary E. Tyler']",Wiley,March 2010
+Survival Analysis Using SAS,['Paul D. Allison'],SAS Institute,March 2010
+Mathematica Cookbook,['Sal Mangano'],O'Reilly Media,March 2010
+Head First Excel,['Michael Milton'],O'Reilly Media,March 2010
+Microsoft Business Intelligence For Dummies,['Ken Withee'],Wiley / For Dummies,March 2010
+Open Government,"['Daniel Lathrop', 'Laurel Ruma']",O'Reilly Media,February 2010
+The Kimball Group Reader,"['Ralph Kimball', 'Margy Ross', 'Bob Becker', 'Joy Mundy', 'Warren Thornthwaite']",Wiley,February 2010
+Data-Driven Marketing,['Mark Jeffery'],Wiley,January 2010
+Analysis of Observational Health Care Data Using SAS,"['Douglas E. Faries', 'Robert Obenchain', 'Josep Maria Haro', 'Andrew C. Leon']",SAS Institute,January 2010
+CouchDB: The Definitive Guide,"['J. Chris Anderson', 'Jan Lehnardt', 'Noah Slater']",O'Reilly Media,January 2010
+Oracle 11g Streams Implementer's Guide,"['Ann L. R. McKinnell', 'Eric Yen']",Packt Publishing,January 2010
+Language Implementation Patterns,['Terence Parr'],Pragmatic Bookshelf,December 2009
+Funambol Mobile Open Source,['Stefano Fornari'],Packt Publishing,December 2009
+Bioinformatics Programming Using Python,['Mitchell L Model'],O'Reilly Media,December 2009
+PCI Compliance,"['Anton Chuvakin', 'Branden R. Williams']",Elsevier / Syngress,November 2009
+Matplotlib for Python Developers,['Sandro Tosi'],Packt Publishing,November 2009
+IBM WebSphere eXtreme Scale 6,['Anthony Chaves'],Packt Publishing,November 2009
+Core Data,['Marcus S. Zarra'],Pragmatic Bookshelf,October 2009
+Business Analysis with QuickBooks,['Conrad Carlberg'],Wiley,October 2009
+Testing ASP.NET Web Applications,"['Jeff McWherter', 'Ben Hall']",Wiley / Wrox,October 2009
+Microsoft SQL Server 2008 Integration Services,"['Erik Veerman', 'Jessica M. Moss', 'Brian Knight', 'Jay Hackney']",Wiley / Wrox,October 2009
+SOA and Web Services Interface Design,['James Bean'],Elsevier / Morgan Kaufmann,September 2009
+Cloud Computing with the Windows Azure Platform,['Roger Jennings'],Wiley / Wrox,September 2009
+"Joe Celko's Data, Measurements and Standards in SQL",['Joe Celko'],Elsevier / Morgan Kaufmann,September 2009
+Pentaho Reporting 3.5 for Java Developers,['Will Gorman'],Packt Publishing,September 2009
+Microsoft SQL Server 2008 Bible,"['Paul Nielsen', 'Uttam Parui', 'Mike White']",Wiley,August 2009
+JasperReports 3.5 for Java Developers,['David R. Heffelfinger'],Packt Publishing,August 2009
+flex & bison,['John Levine'],O'Reilly Media,August 2009
+Oracle Warehouse Builder 11g: Getting Started,['Bob Griesemer'],Packt Publishing,August 2009
+Head First Data Analysis,['Michael Milton'],O'Reilly Media,July 2009
+Oracle VM Manager 2.1.2,['Tarry Singh'],Packt Publishing,July 2009
+Expert Cube Development with Microsoft SQL Server 2008 Analysis Services,"['Alberto Ferrari', 'Chris Webb', 'Marco Russo']",Packt Publishing,July 2009
+Beautiful Data,"['Toby Segaran', 'Jeff Hammerbacher']",O'Reilly Media,July 2009
+Mobile IPv6,"['Qing Li', 'Tatuya Jinmei', 'Keiichi Shima']",Elsevier / Morgan Kaufmann,July 2009
+Programming the Semantic Web,"['Toby Segaran', 'Colin Evans', 'Jamie Taylor']",O'Reilly Media,July 2009
+Cabling,"['Andrew Oliviero', 'Bill Woodward']",Wiley / Sybex,July 2009
+"Learning PHP, MySQL, and JavaScript",['Robin Nixon'],O'Reilly Media,July 2009
+Oracle 10g/11g Data and Database Management Utilities,['Hector R. Madrid'],Packt Publishing,June 2009
+Oracle Essbase 9 Implementation Guide,"['Joseph Sydney Gomez', 'Sarma Anantapantula']",Packt Publishing,June 2009
+Data Mashups in R,"['Jeremy Leipzig', 'Xiao-Yi Li']",O'Reilly Media,June 2009
+Practical Programming,"['Jennifer Campbell', 'Paul Gries', 'Jason Montojo', 'Greg Wilson']",Pragmatic Bookshelf,May 2009
+Java Message Service,"['Mark Richards', 'Richard Monson-Haefel', 'David A Chappell']",O'Reilly Media,May 2009
+Regular Expressions Cookbook,"['Jan Goyvaerts', 'Steven Levithan']",O'Reilly Media,May 2009
+A Manager's Guide to Data Warehousing,['Laura Reeves'],Wiley,May 2009
+The Real MCTS SQL Server 2008 Exam 70-433 Prep Kit,['Mark Horninger'],Elsevier / Syngress,May 2009
+iPhoto '09: The Missing Manual,"['David Pogue', 'J.D. Biersdorfer']",O'Reilly Media,April 2009
+Yahoo! Web Analytics,['Dennis R. Mortensen'],Wiley / Sybex,April 2009
+Semantic Web Programming,"['John Hebeler', 'Matthew Fisher', 'Ryan Blace', 'Andrew Perez-Lopez', 'Mike Dean']",Wiley,April 2009
+The Data Warehouse Lifecycle Toolkit,"['Ralph Kimball', 'Margy Ross', 'Warren Thornthwaite', 'Joy Mundy', 'Bob Becker']",Wiley,April 2009
+Semantic Web for the Working Ontologist,"['Dean Allemang', 'James Hendler']",Elsevier / Morgan Kaufmann,April 2009
+Data Mining with Microsoft SQL Server 2008,"['Jamie MacLennan', 'ZhaoHui Tang', 'Bogdan Crivat']",Wiley,April 2009
+Semantic Web For Dummies,['Jeffrey T. Pollock'],Wiley / For Dummies,March 2009
+Data Warehousing with SAP BW7 BI in SAP Netweaver 2004s,"['Christian Mehrwald', 'Sabine Morlock']",Rocky Nook,March 2009
+P2P Networking and Applications,"['John Buford', 'Heather Yu', 'Eng Keong Lua']",Elsevier / Morgan Kaufmann,March 2009
+Electronic Design Automation,"['Laung-Terng Wang', 'Yao-Wen Chang', 'Kwang-Ting (Tim) Cheng']",Elsevier / Morgan Kaufmann,March 2009
+Switching to a Mac Portable Genius,['Paul McFedries'],Wiley,March 2009
+Processing XML documents with Oracle JDeveloper 11g,['Deepak Vohra'],Packt Publishing,February 2009
+Data Warehousing For Dummies,['Thomas C. Hammergren'],Wiley / For Dummies,February 2009
+Managing the Human Factor in Information Security,['David Lacey'],Wiley,February 2009
+Programming Entity Framework,['Julia Lerman'],O'Reilly Media,January 2009
+C# 2008 and 2005 Threaded Programming,['Gaston C. Hillar'],Packt Publishing,January 2009
+Storage Area Networks For Dummies,"['Christopher Poelker', 'Alex Nikitin']",Wiley / For Dummies,December 2008
+Simply SQL,['Rudy Limeback'],SitePoint,December 2008
+Data-Driven Services with Silverlight 2,['John Papa'],O'Reilly Media,December 2008
+Learning JavaScript,['Shelley Powers'],O'Reilly Media,December 2008
+Learning Rails,"['Simon St. Laurent', 'Edd Wilder-James']",O'Reilly Media,November 2008
+Data Mining: Know It All,"['Soumen Chakrabarti', 'Earl Cox', 'Eibe Frank', 'Ralf Hartmut Güting', 'Jiawei Han', '...']",Elsevier / Morgan Kaufmann,October 2008
+Entity Framework Tutorial,['Joydip Kanjilal'],Packt Publishing,October 2008
+Microsoft SQL Server 2008 For Dummies,['Mike Chapple'],Wiley / For Dummies,September 2008
+"The Art of Debugging with GDB, DDD, and Eclipse","['Norman Matloff', 'Peter Jay Salzman']",No Starch Press,September 2008
+iPhone Forensics,['Jonathan Zdziarski'],O'Reilly Media,September 2008
+Executing Data Quality Projects,['Danette McGilvray'],Elsevier / Morgan Kaufmann,September 2008
+Techno Security's Guide to Securing SCADA,"['Jack Wiles', 'Ted Claypoole', 'Phil Drake', 'Paul A. Henry', 'Lester J. Johnson Jr.', '...']",Elsevier / Syngress,August 2008
+Securing Citrix XenApp Server in the Enterprise,['Tariq Azad'],Elsevier / Syngress,August 2008
+Active Directory Disaster Recovery,['Florian Rommel'],Packt Publishing,June 2008
+Netcat Power Tools,['Jan Kanclirz Jr.'],Elsevier / Syngress,June 2008
+MPLS: Next Steps,"['Bruce S. Davie', 'Adrian Farrel']",Elsevier / Morgan Kaufmann,June 2008
+The Data Model Resource Book,['Len Silverston'],Wiley,May 2008
+JDBC 4.0 and Oracle JDeveloper for J2EE Development,['Deepak Vohra'],Packt Publishing,April 2008
+Beginning Microsoft Visual C# 2008,"['Karli Watson', 'Christian Nagel', 'Jacob Hammer Pedersen', 'Jon D. Reid', 'Morgan ...']",Wiley / Wrox,April 2008
+Liferay Portal Enterprise Intranets,['Jonas X. Yuan'],Packt Publishing,April 2008
+Ruby on Rails Web Mashup Projects,['Chang Sau Sheong'],Packt Publishing,April 2008
+ADO.NET 3.5 Cookbook,['Bill Hamilton'],O'Reilly Media,March 2008
+Programming Amazon Web Services,['James Murty'],O'Reilly Media,March 2008
+Microsoft Office Excel 2007 Data Analysis,['Denise Etheridge'],Wiley / Visual,March 2008
+Practical Data Analysis and Reporting with BIRT,['John Ward'],Packt Publishing,February 2008
+ASP.NET Data Presentation Controls Essentials,['Joydip Kanjilal'],Packt Publishing,December 2007
+SQL Server Integration Services Using Visual Studio 2005,['Jayaram Krishnaswamy'],Packt Publishing,December 2007
+Photoshop CS3 RAW,['Mikkel Aaland'],O'Reilly Media,December 2007
+Visualizing Data,['Ben Fry'],O'Reilly Media,December 2007
+Data Analysis Using SQL and Excel,['Gordon S. Linoff'],Wiley,October 2007
+Windows PowerShell Cookbook,['Lee Holmes'],O'Reilly Media,October 2007
+Oracle PL/SQL Best Practices,['Steven Feuerstein'],O'Reilly Media,October 2007
+Getting Started with Pyparsing,['Paul McGuire'],O'Reilly Media,October 2007
+Security Data Visualization,['Greg Conti'],No Starch Press,September 2007
+PHP Web 2.0 Mashup Projects,['Shu-Wai Chow'],Packt Publishing,September 2007
+Learning PHP Data Objects,['Dennis Popel'],Packt Publishing,August 2007
+Google Analytics,['Justin Cutroni'],O'Reilly Media,August 2007
+Actionable Web Analytics,"['Jason Burby', 'Shane Atchison', 'Jim Sterne']",Wiley / Sybex,August 2007
+Programming Collective Intelligence,['Toby Segaran'],O'Reilly Media,August 2007
+Head First SQL,['Lynn Beighley'],O'Reilly Media,August 2007
+PHP Oracle Web Development,['Yuli Vasiliev'],Packt Publishing,July 2007
+Excel 2007 PivotTables and PivotCharts,['Peter G. Aitken'],Wiley,July 2007
+ODP.NET Developer's Guide,"['Jagadish Chatarji Pulakhandam', 'Sunitha Paruchuri']",Packt Publishing,June 2007
+150 Best Jobs for Your Skills,"['Michael Farr', 'Laurence Shatkin']",JIST Publishing,June 2007
+Excel 2007 Data Analysis For Dummies,['Stephen L. Nelson'],Wiley / For Dummies,May 2007
+Access 2007 For Dummies,"['Laurie Ulrich Fuller', 'Ken Cook', 'John Kaufeld']",Wiley / For Dummies,May 2007
+Blade Servers and Virtualization,"['Barb Goldworm', 'Anne Skamarock']",Wiley,May 2007
+Yahoo! Pipes,['Mark Pruett'],O'Reilly Media,May 2007
+The Definitive ANTLR Reference,['Terence Parr'],Pragmatic Bookshelf,May 2007
+Access Data Analysis Cookbook,"['Ken Bluttman', 'Wayne S. Freeze']",O'Reilly Media,May 2007
+XQuery,['Priscilla Walmsley'],O'Reilly Media,March 2007
+SQL Server Integration Services,['Bill Hamilton'],O'Reilly Media,March 2007
+Professional SQL Server 2005 Integration Services,"['Brian Knight', 'Allan Mitchell', 'Darren Green', 'Douglas Hinson', 'Kathi ...']",Wiley / Wrox,March 2007
+QuickBase: The Missing Manual,['Nancy Conner'],O'Reilly Media,March 2007
+Oracle Data Warehousing and Business Intelligence Solutions,"['Robert Stackowiak', 'Joseph Rayman', 'Rick Greenwald']",Wiley,January 2007
+Using XForms with Mozilla,['J. David Eisenberg'],O'Reilly Media,January 2007
+Closed Circuit Television,['Joe Cieszynski'],Elsevier / Newnes,December 2006
+Learn OpenOffice.org Spreadsheet Macro Programming,['Mark Alexander Bain'],Packt Publishing,December 2006
+CD and DVD Forensics,['Paul Crowley'],Elsevier / Syngress,December 2006
+SQL Hacks,"['Andrew Cumming', 'Gordon Russell']",O'Reilly Media,November 2006
+Learning MySQL,"['Seyed M.M. Tahaghoghi', 'Hugh E. Williams']",O'Reilly Media,November 2006
+Traffic Engineering and QoS Optimization of Integrated Voice and Data Networks,['Gerald R. Ash'],Elsevier / Morgan Kaufmann,November 2006
+LINQ: The Future of Data Access in C# 3.0,['Joe Hummel'],O'Reilly Media,October 2006
+Data Mining and Predictive Analysis,['Colleen McCue'],Elsevier / Butterworth-Heinemann,October 2006
+Mastering Data Warehouse Aggregates,['Christopher Adamson'],Wiley,October 2006
+Fine Art Printing for Photographers,"['Uwe Steinmueller', 'Juergen Gulbins']",Rocky Nook,October 2006
+PHP Programming with PEAR,"['Carsten Lucke', 'Stoyan Stefanov']",Packt Publishing,October 2006
+Building a VoIP Network with Nortel's Multimedia Communication Server 5100,['Larry Chaffin'],Elsevier / Syngress,August 2006
+Ajax and Web Services,['Mark Pruett'],O'Reilly Media,August 2006
+Mastering Regular Expressions,['Jeffrey E.F. Friedl'],O'Reilly Media,August 2006
+Ruby Cookbook,"['Lucas Carlson', 'Leonard Richardson']",O'Reilly Media,July 2006
+Unicode Explained,['Jukka K. Korpela'],O'Reilly Media,June 2006
+"Winternals Defragmentation, Recovery, and Administration Field Guide","['Dave Kleiman', 'Laura E Hunter']",Elsevier / Syngress,June 2006
+RFID Security,"['Frank Thornton', 'Chris Lanthem']",Elsevier / Syngress,May 2006
+Java I/O,['Elliotte Rusty Harold'],O'Reilly Media,May 2006
+Statistics Hacks,['Bruce Frey'],O'Reilly Media,May 2006
+The Microsoft Data Warehouse Toolkit,"['Joy Mundy', 'Warren Thornthwaite', 'Ralph Kimball']",Wiley,May 2006
+MDX Solutions,"['George Spofford', 'Sivakumar Harinath', 'Christopher Webb', 'Dylan Hai Huang', '...']",Wiley,May 2006
+Learning SQL on SQL Server 2005,"['Sikha Saha Bagui', 'Richard Walsh Earp']",O'Reilly Media,April 2006
+"Data Mining, Southeast Asia Edition","['Jiawei Han', 'Jian Pei', 'Micheline Kamber']",Elsevier / Morgan Kaufmann,April 2006
+MySQL Stored Procedure Programming,"['Guy Harrison', 'Steven Feuerstein']",O'Reilly Media,March 2006
+Photoshop CS2 RAW,['Mikkel Aaland'],O'Reilly Media,March 2006
+The Art of SQL,"['Stephane Faroult', 'Peter Robson']",O'Reilly Media,March 2006
+Geeks On Call Security and Privacy,['Geeks On Call'],Wiley,March 2006
+Programming SQL Server 2005,['Bill Hamilton'],O'Reilly Media,February 2006
+Fixing Access Annoyances,"['Phil Mitchell', 'Evan Callahan']",O'Reilly Media,February 2006
+Mastering Dreamweaver MX Databases,"['Susan Sales Harkins', 'Bryan Chamberlain', 'Darren McGee']",Wiley / Sybex,February 2006
+Developing Killer Web Apps with Dreamweaver MX and C#,['Chuck White'],Wiley / Sybex,February 2006
+MCSA / MCSE 2003 JumpStart,['Lisa Donald'],Wiley / Sybex,February 2006
+Cabling,"['David Barnett', 'David Groth', 'Jim McBee']",Wiley / Sybex,February 2006
+Mining Google Web Services,['John Paul Mueller'],Wiley / Sybex,February 2006
+Expert One-on-One<sup><small>TM</small></sup> Visual Basic<sup>®</sup> 2005 ...,['Roger Jennings'],Wiley / Wrox,February 2006
+Globus® Toolkit 4,"['Borja Sotomayor', 'Lisa Childers']",Elsevier / Morgan Kaufmann,January 2006
+RFID Essentials,"['Bill Glover', 'Himanshu Bhatt']",O'Reilly Media,January 2006
+Analyzing Business Data with Excel,['Gerald Knight'],O'Reilly Media,January 2006
+SQL Cookbook,['Anthony Molinaro'],O'Reilly Media,December 2005
+Introduction to Data Compression,['Khalid Sayood'],Elsevier / Morgan Kaufmann,December 2005
+Mechanical Engineer's Pocket Book,['Roger Timings'],Elsevier / Newnes,December 2005
+Greasemonkey Hacks,['Mark Pilgrim'],O'Reilly Media,November 2005
+Administering Data Centers,['Kailash Jayaswal'],Wiley,November 2005
+Securing SCADA Systems,['Ronald L. Krutz'],Wiley,November 2005
+Advanced Microsoft Content Management Server Development,"['Andrew Connell', 'Angus Logan', 'Lim Mei Ying', 'Stefan Goßner']",Packt Publishing,November 2005
+Fundamental Data Compression,['Ida Mengyi Pu'],Elsevier / Butterworth-Heinemann,November 2005
+Access 2003 for Starters: The Missing Manual,"['Kate J. Chase', 'Scott Palmer']",O'Reilly Media,October 2005
+Real-Time Systems Development,['Rob Williams'],Elsevier / Butterworth-Heinemann,October 2005
+Professional .NET 2.0 Generics,['Tod Golding'],Wiley / Wrox,October 2005
+Data Mining with SQL Server 2005,"['ZhaoHui Tang', 'Jamie MacLennan']",Wiley,October 2005
+Building the Data Warehouse,['W. H. Inmon'],Wiley,October 2005
+Asterisk: The Future of Telephony,"['Jim Van Meggelen', 'Jared Smith', 'Leif Madsen']",O'Reilly Media,September 2005
+Designer's Guide to the Cypress PSoC,['Robert Ashby'],Elsevier / Newnes,September 2005
+Moving Objects Databases,"['Ralf Hartmut Güting', 'Markus Schneider']",Elsevier / Morgan Kaufmann,September 2005
+Learning SQL,['Alan Beaulieu'],O'Reilly Media,August 2005
+Computer Privacy Annoyances,['Dan Tynan'],O'Reilly Media,July 2005
+Data Mining,"['Ian H. Witten', 'Eibe Frank']",Elsevier / Morgan Kaufmann,July 2005
+Perl Best Practices,['Damian Conway'],O'Reilly Media,July 2005
+Professional BlackBerry,"['Craig J. Johnston', 'Richard Evers']",Wiley / Wrox,July 2005
+Mapping Hacks,"['Schuyler Erle', 'Rich Gibson', 'Jo Walsh']",O'Reilly Media,June 2005
+Classic Shell Scripting,"['Arnold Robbins', 'Nelson H. F. Beebe']",O'Reilly Media,May 2005
+Access Hacks,['Ken Bluttman'],O'Reilly Media,April 2005
+Data Crunching,['Greg Wilson'],Pragmatic Bookshelf,April 2005
+SSL VPN,"['Joseph Steinberg', 'Tim Speed']",Packt Publishing,March 2005
+Building Websites with VB.NET and DotNetNuke 3.0,['Daniel N. Egan'],Packt Publishing,March 2005
+Fixed Effects Regression Methods for Longitudinal Data Using SAS,['Paul D. Allison'],SAS Institute,March 2005
+Fuzzy Modeling and Genetic Algorithms for Data Mining and Exploration,['Earl Cox'],Elsevier / Morgan Kaufmann,February 2005
+Programming Flash Communication Server,"['Brian Lesser', 'Giacomo Guilizzoni', 'Joey Lott', 'Robert Reinhardt', 'Justin Watkins']",O'Reilly Media,February 2005
+Beginning InfoPath 2003,['F. Scott Barker'],Wiley / Wrox,February 2005
+Beginning PHP5,"['Dave W. Mercer', 'Allan Kent', 'Steven D. Nowicki', 'David Mercer', 'Dan Squier', '...']",Wiley / Wrox,February 2005
+The Art of Intrusion,"['Kevin D. Mitnick', 'William L. Simon']",Wiley,January 2005
+The Art of Intrusion,"['Kevin D. Mitnick', 'William L. Simon']",Wiley,January 2005
+Building Websites with Microsoft Content Management Server,"['Joel Ward', 'Lim Mei Ying', 'Stefan Gobner']",Packt Publishing,January 2005
+Excel Annoyances,['Curtis D. Frye'],O'Reilly Media,December 2004
+Data Conversion Handbook,['Engineeri Analog Devices Inc.'],Elsevier / Newnes,December 2004
+Data Modeling Essentials,"['Graeme Simsion', 'Graham Witt']",Elsevier / Morgan Kaufmann,December 2004
+The Data Warehouse ETL Toolkit,"['Ralph Kimball', 'Joe Caserta']",Wiley,November 2004
+Proceedings 2004 VLDB Conference,['VLDB'],Elsevier / Morgan Kaufmann,October 2004
+Software Design for Engineers and Scientists,['John Allen Robinson'],Elsevier / Newnes,August 2004
+Excel 2003 Programming: A Developer's Notebook,['Jeff Webb'],O'Reilly Media,August 2004
+Professional SQL Server 2000 DTS (Data Transformation Services),"['Mark Chaffin', 'Brian Knight', 'Todd Robinson']",Wiley / Wrox,August 2004
+XML in Data Management,"['Peter Aiken', 'M. David Allen']",Elsevier / Morgan Kaufmann,July 2004
+Excel Guía de Bolsillo,['Curt Frye'],O'Reilly Media,June 2004
+Online Investing Hacks,['Bonnie Biafore'],O'Reilly Media,June 2004
+Excel Programming Weekend Crash Course,['Peter G. Aitken'],Wiley,May 2004
+Beginning ASP.NET Databases Using VB.NET,"['John Kauffman', 'Fabio Claudio Ferracchiati', 'Brian Matsik', 'Eric N. Mintz', 'Jan ...']",Wiley / Wrox,May 2004
+Data Mining Techniques,"['Michael J. Berry', 'Gordon S. Linoff']",Wiley,April 2004
+Flash MX 2004 ActionScript Bible,"['Robert Reinhardt', 'Joey Lott']",Wiley,April 2004
+Professional Crystal Reports for Visual Studio .NET,['David McAmis'],Wiley / Wrox,April 2004
+Ham Radio For Dummies,['H. Ward Silver'],Wiley / For Dummies,April 2004
+Universal Meta Data Models,"['David Marco', 'Michael Jennings']",Wiley,March 2004
+Practical Industrial Data Networks,"['Steve Mackay', 'Edwin Wright', 'Deon Reynders', 'John Park']",Elsevier / Newnes,February 2004
+Cryptography For Dummies,['Chey Cobb'],Wiley / For Dummies,January 2004
+Practical Modern SCADA Protocols,"['Gordon Clarke', 'Deon Reynders']",Elsevier / Newnes,January 2004
+How to Build a Business Rules Engine,['Malcolm Chisholm'],Elsevier / Morgan Kaufmann,January 2004
+Object-Oriented Design with UML and Java,"['Kenneth Barclay', 'John Savage']",Elsevier / Butterworth-Heinemann,December 2003
+Proceedings 2003 VLDB Conference,['VLDB'],Elsevier / Morgan Kaufmann,December 2003
+Microsoft<sup>®</sup> Office 2003 Bible,"['Edward Willett', 'Allen Wyatt', 'Bill Rodgers']",Wiley,November 2003
+Powering Office 2003 with XML,['Peter G. Aitken'],Wiley,November 2003
+Applying UML,"['Rob Pooley', 'Pauline Wilcox']",Elsevier / Butterworth-Heinemann,October 2003
+Mastering Perl for Bioinformatics,['James Tisdall'],O'Reilly Media,September 2003
+Excel Pocket Guide,['Curtis D. Frye'],O'Reilly Media,September 2003
+Learning XML,['Erik T. Ray'],O'Reilly Media,September 2003
+Bioinformatics,"['Zoé Lacroix', 'Terence Critchlow']",Elsevier / Morgan Kaufmann,September 2003
+ASP.NET in a Nutshell,"['G. Andrew Duthie', 'Matthew MacDonald']",O'Reilly Media,August 2003
+Mastering Data Warehouse Design,"['Claudia Imhoff', 'Nicholas Galemmo', 'Jonathan G. Geiger']",Wiley,August 2003
+Implementing Backup and Recovery,['David B Little'],Wiley,August 2003
+Business Intelligence,['David Loshin'],Elsevier / Morgan Kaufmann,July 2003
+XML for Data Architects,['James Bean'],Elsevier / Morgan Kaufmann,July 2003
+Practical Data Communications for Instrumentation and Control,"['Steve Mackay', 'Edwin Wright', 'John Park']",Elsevier / Newnes,June 2003
+Practical Data Acquisition for Instrumentation and Control Systems,"['John Park', 'Steve Mackay']",Elsevier / Newnes,June 2003
+Engineering Global E-Commerce Sites,['James Bean'],Elsevier / Morgan Kaufmann,May 2003
+The Craft of Information Visualization,"['Benjamin B Bederson', 'Ben Shneiderman']",Elsevier / Morgan Kaufmann,May 2003
+Business Modeling and Data Mining,['Dorian Pyle'],Elsevier / Morgan Kaufmann,May 2003
+Java Database Best Practices,['George Reese'],O'Reilly Media,May 2003
+Modeling Business Objects with XML Schema,['Berthold Daum'],Elsevier / Morgan Kaufmann,April 2003
+Oracle Data Dictionary Pocket Reference,['David C. Kreines'],O'Reilly Media,April 2003
+Java Data Objects,"['David Jordan', 'Craig Russell']",O'Reilly Media,April 2003
+IBM Data Warehousing,['Michael L. Gonzales'],Wiley,February 2003
+Shared Data Clusters,['Dilip M. Ranade'],Wiley,February 2003
+UNIX Filesystems,['Steve D. Pate'],Wiley,February 2003
+Common Warehouse Metamodel Developer's Guide,"['John Poole', 'Dan Chang', 'Douglas Tolbert', 'David Mellor']",Wiley,February 2003
+Mixed-signal and DSP Design Techniques,"['Engineeri Analog Devices Inc.', 'Walt Kester']",Elsevier / Newnes,January 2003
+Data Quality,['Jack E. Olson'],Elsevier / Morgan Kaufmann,January 2003
+Designing Data-Intensive Web Applications,"['Stefano Ceri', 'Piero Fraternali', 'Aldo Bongio', 'Marco Brambilla', 'Sara Comai', '...']",Elsevier / Morgan Kaufmann,January 2003
+Digital Video and HD,['Charles Poynton'],Elsevier / Morgan Kaufmann,January 2003
+Managing RAID on Linux,['Derek Vadala'],O'Reilly Media,December 2002
+Understanding the Linux Kernel,"['Daniel P. Bovet', 'Marco Cesati']",O'Reilly Media,December 2002
+Proceedings 2002 VLDB Conference,['VLDB'],Elsevier / Morgan Kaufmann,December 2002
+Temporal Data & the Relational Model,"['C. J. Date', 'Hugh Darwen', 'Nikos Lorentzos']",Elsevier / Morgan Kaufmann,December 2002
+Oracle Administration and Management,['Michael R. Ault'],Wiley,November 2002
+Mining the Web,['Soumen Chakrabarti'],Elsevier / Morgan Kaufmann,October 2002
+Mastering XMI,"['Timothy J. Grose', 'Gary C. Doney', 'Stephen A. Brodsky']",Wiley,October 2002
+Oracle SQL Plus Pocket Reference,['Jonathan Gennick'],O'Reilly Media,October 2002
+Visual Data Mining,"['Tom Soukup', 'Ian Davidson']",Wiley,October 2002
+Programming ADO.NET,"['Richard Hundhausen', 'Steven Borg']",Wiley,October 2002
+HTTP: The Definitive Guide,"['David Gourley', 'Brian Totty', 'Marjorie Sayer', 'Anshu Aggarwal', 'Sailu Reddy']",O'Reilly Media,September 2002
+Evolutionary Computation in Bioinformatics,"['Gary B Fogel', 'David W. Corne']",Elsevier / Morgan Kaufmann,September 2002
+Introduction to Copper Cabling,['John Crisp'],Elsevier / Newnes,September 2002
+Visual Basic .NET and XML,"['Rod Stephens', 'Brian Hochgurtel']",Wiley,September 2002
+Hack Proofing XML,['Syngress'],Elsevier / Syngress,August 2002
+Newnes Radio and RF Engineering Pocket Book,"['Steve Winder', 'Joseph Carr']",Elsevier / Newnes,July 2002
+Mastering Regular Expressions,['Jeffrey E.F. Friedl'],O'Reilly Media,July 2002
+Database Tuning,"['Dennis Shasha', 'Philippe Bonnet']",Elsevier / Morgan Kaufmann,June 2002
+Java & XML Data Binding,['Brett McLaughlin'],O'Reilly Media,May 2002
+Disappearing Cryptography,['Peter Wayner'],Elsevier / Morgan Kaufmann,May 2002
+Optoelectronics and Fiber Optic Technology,['Ray Tricker'],Elsevier / Newnes,May 2002
+Perl and XML,"['Erik T. Ray', 'Jason McIntosh']",O'Reilly Media,April 2002
+Common Warehouse Metamodel,"['John Poole', 'Dan Chang', 'Douglas Tolbert', 'David Mellor']",Wiley,April 2002
+XML Net Developers Guide,['Syngress'],Elsevier / Syngress,April 2002
+Newnes Data Communications Pocket Book,"['Steve Winder', 'Mike Tooley']",Elsevier / Newnes,April 2002
+Building Java Enterprise Applications,['Brett McLaughlin'],O'Reilly Media,March 2002
+Transact-SQL Cookbook,"['Ales Spetic', 'Jonathan Gennick']",O'Reilly Media,March 2002
+Corporate Information Factory,"['W. H. Inmon', 'Claudia Imhoff', 'Ryan Sousa']",Wiley,March 2002
+Hack Attacks Revealed,['John Chirillo'],Wiley,March 2002
+Using SANs and NAS,['W. Curtis Preston'],O'Reilly Media,February 2002
+Cisco AVVID and IP Telephony Design and Implementation,['Wayne Lawson'],Elsevier / Syngress,December 2001
+Java Programming with Oracle JDBC,['Donald Bales'],O'Reilly Media,November 2001
+Oracle RMAN Pocket Reference,"['Darl Kuhn', 'Scott Schulze']",O'Reilly Media,November 2001
+Beginning Perl for Bioinformatics,['James Tisdall'],O'Reilly Media,October 2001
+Reference Data for Engineers,"['Mac E. Van Valkenburg', 'Wendy M. Middleton']",Elsevier / Newnes,October 2001
+Longitudinal Data and SAS,['EdD Ron Cody'],SAS Institute,October 2001
+Newnes Telecommunications Pocket Book,['Steve Winder'],Elsevier / Newnes,October 2001
+Java and XML,['Brett McLaughlin'],O'Reilly Media,August 2001
+Practical IDL Programming,['Liam E. Gumley'],Elsevier / Morgan Kaufmann,July 2001
+ADO: ActiveX Data Objects,['Jason T Roff'],O'Reilly Media,June 2001
+Understanding Policy-Based Networking,['Dave Kosiur'],Wiley,June 2001
+Data Analysis for Database Design,['David Howe'],Elsevier / Butterworth-Heinemann,May 2001
+Spatial Databases,"['Philippe Rigaux', 'Michel Scholl', 'Agnès Voisard']",Elsevier / Morgan Kaufmann,May 2001
+Data Warehousing And Business Intelligence For e-Commerce,"['Alan Simon', 'Steven L. Shaffer']",Elsevier / Morgan Kaufmann,May 2001
+Developing Bioinformatics Computer Skills,"['Cynthia Gibas', 'Per Jambeck']",O'Reilly Media,April 2001
+Oracle PL/SQL Best Practices,['Steven Feuerstein'],O'Reilly Media,April 2001
+Internet QoS,['Zheng Wang'],Elsevier / Morgan Kaufmann,March 2001
+Administering Cisco QoS in IP Networks,['Syngress'],Elsevier / Syngress,March 2001
+Configuring Cisco AVVID,['Wayne Lawson'],Elsevier / Syngress,February 2001
+Learning XML,['Erik T. Ray'],O'Reilly Media,January 2001
+Steal This Computer Book 2,['Wallace Wang'],No Starch Press,November 2000
+CDO & MAPI Programming with Visual Basic:,['Dave Grundgeiger'],O'Reilly Media,October 2000
+Oracle SQL: the Essential Reference,['David C. Kreines'],O'Reilly Media,September 2000
+Data Warehousing,['Paul Westerman'],Elsevier / Morgan Kaufmann,September 2000
+Telecommunication Circuits and Technology,['Andrew Leven'],Elsevier / Newnes,August 2000
+PC Interfacing and Data Acquisition,['Kevin James'],Elsevier / Newnes,July 2000
+Java and XML,['Brett McLaughlin'],O'Reilly Media,June 2000
+Newnes Workshop Engineer's Pocket Book,['Roger Timings'],Elsevier / Newnes,April 2000
+IP Addressing and Subnetting INC IPV6,['Syngress'],Elsevier / Syngress,January 2000
+DAO Object Model: The Definitive Reference,['Helen Feddema'],O'Reilly Media,January 2000
+Oracle Essentials: Oracle8 & Oracle8i,"['Rick Greenwald', 'Robert Stackowiak', 'Jonathan Stern']",O'Reilly Media,November 1999
+Oracle 8i Internal Services,['Steve Adams'],O'Reilly Media,October 1999
+Compression Algorithms for Real Programmers,['Peter Wayner'],Elsevier / Morgan Kaufmann,October 1999
+Newnes TV and Video Engineer's Pocket Book,['EUGENE TRUNDLE'],Elsevier / Newnes,October 1999
+Oracle SAP Administration,['Donald K. Burleson'],O'Reilly Media,September 1999
+Mastering Algorithms with C,['Kyle Loudon'],O'Reilly Media,August 1999
+Access Database Design and Programming,"['Steven Roman', 'PhD']",O'Reilly Media,July 1999
+Java I/O,['Elliotte Rusty Harold'],O'Reilly Media,March 1999
+Parallel Computer Architecture,"['David Culler', 'Jaswinder Pal Singh', 'Anoop Gupta']",Elsevier / Morgan Kaufmann,September 1998
+Electronics Calculations Data Handbook,['Daniel McBrearty'],Elsevier / Newnes,July 1998
+Cracking DES,['Electronic Foundation'],O'Reilly Media,July 1998
+Steal This Computer Book,['Wallace Wang'],No Starch Press,June 1998
+Oracle Scripts,"['Brian Lomasky', 'David C. Kreines']",O'Reilly Media,May 1998
+Contextual Design,"['Hugh Beyer', 'Karen Holtzblatt']",Elsevier / Morgan Kaufmann,December 1997
+Excel 97 Annoyances,"['Lee Hudspeth', 'T.J. Lee', 'Woody Leonhard']",O'Reilly Media,September 1997
+Advanced Perl Programming,['Sriram Srinivasan'],O'Reilly Media,August 1997
+Java Language Reference,['Mark Grand'],O'Reilly Media,August 1997
+Newnes Electronics Toolkit,['Geoff Philips'],Elsevier / Newnes,July 1997
+Simplified Design of Data Converters,['John Lenk'],Elsevier / Newnes,June 1997
+Television Microprocessor IC Data Files,['J. G. Edwards'],Elsevier / Newnes,March 1997
+Microwave and Wireless Communications Technology,['Joseph Carr'],Elsevier / Newnes,January 1997
+Mastering Regular Expressions,['Jeffrey E.F. Friedl'],O'Reilly Media,January 1997
+Dictionary of PC Hardware and Data Communications Terms,['Mitchell Shnier'],O'Reilly Media,May 1996
+Principles of Semiconductor Network Testing,['Amir Afshar'],Elsevier / Newnes,April 1996
+Volume 6B: Motif Reference Manual,"['David Brennan', 'Paula Ferguson']",O'Reilly Media,June 1993
+Understanding and Using COFF,['Gintaras Gircys'],O'Reilly Media,November 1988
+Organizing Information,['Dagobert Soergel'],Elsevier / Morgan Kaufmann,September 1985
+Security für Data-Warehouse- und Business-Intelligence-Systeme,['Herbert Stauffer'],dpunkt,None
+Malware Data Science,"['Joshua Saxe', 'Hillary Sanders']",No Starch Press,None
+Fundamentals of Data Visualization,['Claus Wilke'],O'Reilly Media,None
+"HBase: The Definitive Guide, 2nd Edition",['Lars George'],O'Reilly Media,None
+Edge Resiliency,"['Mark Wilkins', 'Gary Sloper']",O'Reilly Media,None
+"Python von Kopf bis Fuß, 2nd Edition",['Paul Barry'],O'Reilly Verlag via dpunkt,None
+"Python for Finance, 2nd Edition",['Yves Hilpisch'],O'Reilly Media,None
+Learning Apache Drill,"['Paul Rogers', 'Charles Givre']",O'Reilly Media,None
+Basiswissen Testdatenmanagement,"['Klaus Franz', 'Tanja Tremmel', 'Eckehard Kruse']",dpunkt,None
